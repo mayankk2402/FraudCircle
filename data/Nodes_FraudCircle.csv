@@ -1,0 +1,1932 @@
+node_id,name,node_type,account_subtype,account_age_days,kyc_verified,ground_truth_fraud,scenario_tag
+ACC_FRAUD_MASTER,Rajesh Dubey,Account,Personal_Savings,45,0,1,FRAUD_SMURFING_FUNNEL
+ACC_EXT_CASHOUT,Offshore Holdings Ltd,Account,Personal_Savings,10,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_0,Aryan Maharaj,Account,Personal_Savings,25,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_1,Udant Dewan,Account,Personal_Savings,12,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_2,Gagan Sami,Account,Personal_Savings,26,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_3,Ayushman Chander,Account,Personal_Savings,23,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_4,Viraj Tiwari,Account,Personal_Savings,11,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_5,Rushil Saini,Account,Personal_Savings,22,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_6,Saumya Mall,Account,Personal_Savings,22,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_7,Nathaniel Sami,Account,Personal_Savings,13,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_8,Arunima Dugal,Account,Personal_Savings,30,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_9,Gayathri Chaudry,Account,Personal_Savings,13,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_10,Lajita Chatterjee,Account,Personal_Savings,15,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_11,Hemangini Lalla,Account,Personal_Savings,16,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_12,Tripti Yadav,Account,Personal_Savings,30,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_13,Kritika Brar,Account,Personal_Savings,8,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_14,Janaki Handa,Account,Personal_Savings,22,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_15,Chakradev Kari,Account,Personal_Savings,16,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_16,Fariq Kaul,Account,Personal_Savings,6,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_17,Lajita Mall,Account,Personal_Savings,7,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_18,Janya Gaba,Account,Personal_Savings,17,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_19,Isha Kadakia,Account,Personal_Savings,16,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_20,Ekbal Garg,Account,Personal_Savings,26,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_21,Nihal Shere,Account,Personal_Savings,25,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_22,Anamika Kanda,Account,Personal_Savings,22,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_23,Daksh Karnik,Account,Personal_Savings,17,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_24,Diya Rattan,Account,Personal_Savings,27,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_25,Dominic Kakar,Account,Personal_Savings,29,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_26,Simon Tata,Account,Personal_Savings,6,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_27,Tara Dhar,Account,Personal_Savings,7,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_28,Liam Koshy,Account,Personal_Savings,27,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_29,Priya Rastogi,Account,Personal_Savings,17,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_30,Theodore Devi,Account,Personal_Savings,9,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_31,Gavin Batta,Account,Personal_Savings,22,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_32,Michael Dutta,Account,Personal_Savings,18,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_33,Devansh Rajan,Account,Personal_Savings,12,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_34,Upadhriti Wadhwa,Account,Personal_Savings,20,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_35,Advay Contractor,Account,Personal_Savings,8,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_36,Harini Choudhury,Account,Personal_Savings,26,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_37,Radhika Dugar,Account,Personal_Savings,17,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_38,Aarush Lall,Account,Personal_Savings,13,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_39,Yashica Cherian,Account,Personal_Savings,5,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_40,Yashica Issac,Account,Personal_Savings,22,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_41,Kashvi Edwin,Account,Personal_Savings,15,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_42,Ekiya Suresh,Account,Personal_Savings,19,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_43,Isaac Patil,Account,Personal_Savings,28,0,1,FRAUD_SMURFING_FUNNEL
+ACC_MULE_44,Wriddhish Bhardwaj,Account,Personal_Savings,10,0,1,FRAUD_SMURFING_FUNNEL
+DEV_FRAUD_RING_1,Device-AA:BB:CC:DD:EE:FF,Device,,0,0,1,FRAUD_SYBIL_DEVICE_RING
+IP_FRAUD_1,103.45.67.89,IP_Address,,0,0,1,FRAUD_SYBIL_DEVICE_RING
+MERCH_FRAUD_SHELL,QuickPay Solutions Pvt Ltd,Merchant,Shell_Merchant,12,0,1,FRAUD_SYBIL_DEVICE_RING
+ACC_SYBIL_0,Farhan Chada,Account,Personal_Savings,380,1,1,FRAUD_SYBIL_DEVICE_RING
+ACC_SYBIL_1,Ekapad Walia,Account,Personal_Savings,142,1,1,FRAUD_SYBIL_DEVICE_RING
+ACC_SYBIL_2,Kabir Soman,Account,Personal_Savings,225,1,1,FRAUD_SYBIL_DEVICE_RING
+ACC_SYBIL_3,Alka Wable,Account,Personal_Savings,217,1,1,FRAUD_SYBIL_DEVICE_RING
+ACC_SYBIL_4,Siddharth Zacharia,Account,Personal_Savings,308,1,1,FRAUD_SYBIL_DEVICE_RING
+ACC_SYBIL_5,Devika Rastogi,Account,Personal_Savings,397,1,1,FRAUD_SYBIL_DEVICE_RING
+ACC_SYBIL_6,Raksha Varughese,Account,Personal_Savings,276,1,1,FRAUD_SYBIL_DEVICE_RING
+ACC_SYBIL_7,Jai Kota,Account,Personal_Savings,219,1,1,FRAUD_SYBIL_DEVICE_RING
+ACC_SYBIL_8,Devansh Nigam,Account,Personal_Savings,291,1,1,FRAUD_SYBIL_DEVICE_RING
+ACC_SYBIL_9,Victor Kannan,Account,Personal_Savings,177,1,1,FRAUD_SYBIL_DEVICE_RING
+ACC_SYBIL_10,Ekavir Bhargava,Account,Personal_Savings,94,1,1,FRAUD_SYBIL_DEVICE_RING
+ACC_SYBIL_11,Ekansh Balay,Account,Personal_Savings,308,1,1,FRAUD_SYBIL_DEVICE_RING
+ACC_SYBIL_12,Ekavir Varkey,Account,Personal_Savings,302,1,1,FRAUD_SYBIL_DEVICE_RING
+ACC_SYBIL_13,Arya Sunder,Account,Personal_Savings,397,1,1,FRAUD_SYBIL_DEVICE_RING
+ACC_SYBIL_14,Kevin Solanki,Account,Personal_Savings,394,1,1,FRAUD_SYBIL_DEVICE_RING
+ACC_LOOP_A,Urvashi Ray,Account,Personal_Savings,85,0,1,FRAUD_CIRCULAR_LOOP
+ACC_LOOP_B,Girindra Chatterjee,Account,Personal_Savings,36,0,1,FRAUD_CIRCULAR_LOOP
+ACC_LOOP_C,Irya Sampath,Account,Personal_Savings,45,0,1,FRAUD_CIRCULAR_LOOP
+ACC_LOOP_D,Unni Bhagat,Account,Personal_Savings,42,0,1,FRAUD_CIRCULAR_LOOP
+ACC_LOOP_E,Darsh Rau,Account,Personal_Savings,42,0,1,FRAUD_CIRCULAR_LOOP
+ACC_LOOP_F,Ikbal Kothari,Account,Personal_Savings,64,0,1,FRAUD_CIRCULAR_LOOP
+ACC_SLEEPER_1,Vikram Mehta,Account,Personal_Savings,400,1,1,FRAUD_BUST_OUT
+ACC_NORMAL_RECV_0,Ranveer Yadav,Account,Personal_Savings,160,1,0,NORMAL
+ACC_NORMAL_RECV_1,Logan Sami,Account,Personal_Savings,102,1,0,NORMAL
+ACC_NORMAL_RECV_2,Arya Shere,Account,Personal_Savings,371,1,0,NORMAL
+ACC_NORMAL_RECV_3,Faqid Savant,Account,Personal_Savings,903,1,0,NORMAL
+ACC_NORMAL_RECV_4,Chandresh Zachariah,Account,Personal_Savings,533,1,0,NORMAL
+ACC_NORMAL_RECV_5,Girik Khalsa,Account,Personal_Savings,848,1,0,NORMAL
+ACC_NORMAL_RECV_6,Niharika Sunder,Account,Personal_Savings,669,1,0,NORMAL
+ACC_NORMAL_RECV_7,Tanay Rattan,Account,Personal_Savings,598,1,0,NORMAL
+ACC_NORMAL_RECV_8,Nitesh Raghavan,Account,Personal_Savings,403,1,0,NORMAL
+ACC_NORMAL_RECV_9,Madhavi Lanka,Account,Personal_Savings,159,1,0,NORMAL
+ACC_NORMAL_RECV_10,Bhavika Sampath,Account,Personal_Savings,655,1,0,NORMAL
+ACC_NORMAL_RECV_11,Mohammed Gupta,Account,Personal_Savings,421,1,0,NORMAL
+ACC_NORMAL_RECV_12,Teerth Bhardwaj,Account,Personal_Savings,698,1,0,NORMAL
+ACC_NORMAL_RECV_13,Dipta Bhandari,Account,Personal_Savings,973,1,0,NORMAL
+ACC_NORMAL_RECV_14,Vansha Thakkar,Account,Personal_Savings,158,1,0,NORMAL
+ACC_NORMAL_RECV_15,Dakshesh Trivedi,Account,Personal_Savings,182,1,0,NORMAL
+ACC_NORMAL_RECV_16,Quincy Biswas,Account,Personal_Savings,170,1,0,NORMAL
+ACC_NORMAL_RECV_17,Wahab Raval,Account,Personal_Savings,791,1,0,NORMAL
+ACC_NORMAL_RECV_18,Yatin Baral,Account,Personal_Savings,513,1,0,NORMAL
+ACC_NORMAL_RECV_19,Oni Virk,Account,Personal_Savings,683,1,0,NORMAL
+ACC_NORMAL_RECV_20,Advika Jayaraman,Account,Personal_Savings,708,1,0,NORMAL
+ACC_NORMAL_RECV_21,William Lanka,Account,Personal_Savings,183,1,0,NORMAL
+ACC_NORMAL_RECV_22,Karan Mital,Account,Personal_Savings,697,1,0,NORMAL
+ACC_NORMAL_RECV_23,Diya Bora,Account,Personal_Savings,423,1,0,NORMAL
+ACC_NORMAL_RECV_24,Tara Chaudhry,Account,Personal_Savings,309,1,0,NORMAL
+ACC_NORMAL_RECV_25,Tanay Toor,Account,Personal_Savings,421,1,0,NORMAL
+ACC_NORMAL_RECV_26,Kevin Palla,Account,Personal_Savings,505,1,0,NORMAL
+ACC_NORMAL_RECV_27,Yash Pingle,Account,Personal_Savings,760,1,0,NORMAL
+ACC_NORMAL_RECV_28,Nakul Sarma,Account,Personal_Savings,423,1,0,NORMAL
+ACC_BUST_DRAIN_0,Abhiram Mistry,Account,Personal_Savings,2,0,1,FRAUD_BUST_OUT
+ACC_BUST_DRAIN_1,Krish Lalla,Account,Personal_Savings,6,0,1,FRAUD_BUST_OUT
+ACC_BUST_DRAIN_2,Hredhaan Dugal,Account,Personal_Savings,3,0,1,FRAUD_BUST_OUT
+ACC_BUST_DRAIN_3,Baghyawati Kade,Account,Personal_Savings,4,0,1,FRAUD_BUST_OUT
+ACC_BUST_DRAIN_4,Samar Lalla,Account,Personal_Savings,4,0,1,FRAUD_BUST_OUT
+ACC_BUST_DRAIN_5,Zayan Behl,Account,Personal_Savings,6,0,1,FRAUD_BUST_OUT
+ACC_BUST_DRAIN_6,Pallavi Malhotra,Account,Personal_Savings,7,0,1,FRAUD_BUST_OUT
+ACC_BUST_DRAIN_7,Aarush Nath,Account,Personal_Savings,6,0,1,FRAUD_BUST_OUT
+ACC_CORP_INFOSYS_PAYROLL,Infosys BPO Ltd - Payroll,Account,Verified_Corporate_Payroll,1800,1,0,LEGIT_CORP_PAYROLL
+ACC_EMP_0,Adweta Edwin,Account,Personal_Savings,1998,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_0,Device-EMP-ed:03:24:1b:4d:41,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_1,Janya Baral,Account,Personal_Savings,419,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_1,Device-EMP-b6:73:bd:47:55:d0,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_2,Gaurangi Sabharwal,Account,Personal_Savings,777,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_2,Device-EMP-78:53:c1:f7:6e:b9,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_3,Udant Bajwa,Account,Personal_Savings,616,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_3,Device-EMP-6c:a8:28:bc:a0:38,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_4,Alka Barad,Account,Personal_Savings,1235,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_4,Device-EMP-3d:ba:d3:c6:81:d0,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_5,Januja Sankar,Account,Personal_Savings,1932,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_5,Device-EMP-2a:a3:99:da:c9:46,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_6,Ladli Ghosh,Account,Personal_Savings,1898,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_6,Device-EMP-9c:09:96:da:ee:e6,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_7,Omkaar Chad,Account,Personal_Savings,1779,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_7,Device-EMP-9a:27:97:64:01:7f,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_8,Tamanna Sachdeva,Account,Personal_Savings,530,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_8,Device-EMP-6c:fc:74:03:d7:5e,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_9,Zaid Dara,Account,Personal_Savings,1075,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_9,Device-EMP-e4:ea:ed:e5:fe:87,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_10,Vedhika Khare,Account,Personal_Savings,1615,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_10,Device-EMP-8e:29:78:aa:24:47,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_11,Michael Kala,Account,Personal_Savings,1909,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_11,Device-EMP-2d:da:ed:16:dc:0c,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_12,Abeer Pandey,Account,Personal_Savings,1080,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_12,Device-EMP-9c:d7:f7:8d:f0:ca,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_13,Noah Sibal,Account,Personal_Savings,1830,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_13,Device-EMP-40:c0:2d:4e:51:8c,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_14,Siddharth Sha,Account,Personal_Savings,932,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_14,Device-EMP-aa:c8:d8:2f:01:b7,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_15,Banjeet Balasubramanian,Account,Personal_Savings,410,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_15,Device-EMP-76:04:74:f3:6e:8b,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_16,Ishwar Gade,Account,Personal_Savings,1991,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_16,Device-EMP-93:09:cc:62:73:93,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_17,Idika Walia,Account,Personal_Savings,516,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_17,Device-EMP-db:2a:0d:f3:db:e4,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_18,Patrick Vig,Account,Personal_Savings,532,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_18,Device-EMP-8f:ed:8a:72:8e:7e,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_19,Gayathri Balakrishnan,Account,Personal_Savings,1044,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_19,Device-EMP-fa:5f:6b:8a:88:06,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_20,Wyatt Ray,Account,Personal_Savings,880,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_20,Device-EMP-f7:ff:e0:29:7c:79,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_21,Urvashi Wali,Account,Personal_Savings,1571,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_21,Device-EMP-bd:ab:e8:98:73:6a,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_22,Qasim Handa,Account,Personal_Savings,746,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_22,Device-EMP-6f:89:36:97:b5:90,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_23,Anusha Bath,Account,Personal_Savings,983,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_23,Device-EMP-19:4f:30:9f:fe:a5,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_24,Zayyan Sridhar,Account,Personal_Savings,655,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_24,Device-EMP-32:cf:21:44:92:73,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_25,Upkaar Virk,Account,Personal_Savings,916,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_25,Device-EMP-ce:e9:d9:13:66:82,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_26,Wriddhish Ghose,Account,Personal_Savings,666,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_26,Device-EMP-25:0d:ef:91:79:9e,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_27,Vivaan Lalla,Account,Personal_Savings,1016,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_27,Device-EMP-6d:37:48:42:15:99,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_28,Jeet Sidhu,Account,Personal_Savings,1783,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_28,Device-EMP-9c:8f:e2:1d:a8:02,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_29,Ansh Luthra,Account,Personal_Savings,1018,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_29,Device-EMP-15:fe:85:df:2f:bd,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_30,Ekani Cheema,Account,Personal_Savings,878,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_30,Device-EMP-5a:df:9c:1e:2a:8a,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_31,Netra Varkey,Account,Personal_Savings,734,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_31,Device-EMP-0e:d1:6b:fe:16:84,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_32,Raksha Sundaram,Account,Personal_Savings,743,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_32,Device-EMP-30:75:90:d2:73:e3,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_33,Wishi Manne,Account,Personal_Savings,907,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_33,Device-EMP-8d:ff:7e:4c:64:28,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_34,Harini Tripathi,Account,Personal_Savings,1441,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_34,Device-EMP-80:99:f4:ef:ba:ce,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_35,Ranbir Khare,Account,Personal_Savings,1380,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_35,Device-EMP-c7:d1:af:cc:4f:14,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_36,Harish Sarraf,Account,Personal_Savings,1093,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_36,Device-EMP-3e:04:d4:2f:8a:c2,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_37,Lajita Nadig,Account,Personal_Savings,1302,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_37,Device-EMP-f1:27:97:2d:33:e5,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_38,Ayush Batra,Account,Personal_Savings,1709,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_38,Device-EMP-a1:9b:bd:47:d5:55,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_39,Lavanya Khosla,Account,Personal_Savings,343,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_39,Device-EMP-f4:7e:8e:80:e9:52,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_40,Hemani Mistry,Account,Personal_Savings,1476,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_40,Device-EMP-d8:e9:6c:f3:7c:b9,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_41,Anthony Randhawa,Account,Personal_Savings,1674,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_41,Device-EMP-80:1f:97:b7:68:43,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_42,Dayamai Sastry,Account,Personal_Savings,1565,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_42,Device-EMP-1b:42:9a:d5:64:b8,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_43,Aarini Subramaniam,Account,Personal_Savings,805,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_43,Device-EMP-9a:3e:24:7c:b2:c0,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_44,Jatin Sha,Account,Personal_Savings,1561,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_44,Device-EMP-b8:cb:37:f0:a7:2e,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_45,Nilima Dada,Account,Personal_Savings,556,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_45,Device-EMP-41:19:f3:37:4c:eb,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_46,Mohammed Sachdeva,Account,Personal_Savings,1322,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_46,Device-EMP-3f:d8:1b:6e:e7:b3,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_47,Jagrati Bhat,Account,Personal_Savings,630,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_47,Device-EMP-c8:63:e2:60:1a:74,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_48,Ekapad Johal,Account,Personal_Savings,1540,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_48,Device-EMP-67:a4:08:44:85:30,Device,,0,0,0,LEGIT_CORP_PAYROLL
+ACC_EMP_49,Alexander Parmar,Account,Personal_Savings,1583,1,0,LEGIT_CORP_PAYROLL
+DEV_EMP_49,Device-EMP-7a:05:81:4d:32:fe,Device,,0,0,0,LEGIT_CORP_PAYROLL
+MERCH_TATA_POWER,Tata Power Mumbai,Merchant,Verified_Utility_Merchant,2500,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_0,Yochana Chopra,Account,Personal_Savings,795,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_1,Yahvi Kant,Account,Personal_Savings,2211,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_2,Charvi Shanker,Account,Personal_Savings,1472,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_3,Darsh Srinivas,Account,Personal_Savings,1062,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_4,Pooja Chokshi,Account,Personal_Savings,915,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_5,Sachi Borah,Account,Personal_Savings,1102,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_6,Ekanta Divan,Account,Personal_Savings,398,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_7,Jonathan Maharaj,Account,Personal_Savings,2679,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_8,Lakshmi Wali,Account,Personal_Savings,2952,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_9,Sudiksha Tiwari,Account,Personal_Savings,1099,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_10,Hardik Contractor,Account,Personal_Savings,122,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_11,Qushi Seth,Account,Personal_Savings,536,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_12,Odika Nori,Account,Personal_Savings,820,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_13,Mohini Sagar,Account,Personal_Savings,2221,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_14,Dhriti Sane,Account,Personal_Savings,1120,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_15,Aadhya Prasad,Account,Personal_Savings,1969,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_16,Urvi Bhavsar,Account,Personal_Savings,2834,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_17,Frederick Chander,Account,Personal_Savings,2538,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_18,Gopal Pradhan,Account,Personal_Savings,1912,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_19,Darpan Narayan,Account,Personal_Savings,2167,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_20,Nirja Pandya,Account,Personal_Savings,1926,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_21,Charan Mani,Account,Personal_Savings,2044,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_22,Indira Chawla,Account,Personal_Savings,1112,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_23,Mohammed Subramaniam,Account,Personal_Savings,2235,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_24,Hritik Palla,Account,Personal_Savings,1224,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_25,Ishwar Mallick,Account,Personal_Savings,1270,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_26,Pushti Bal,Account,Personal_Savings,1409,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_27,Ayush Gole,Account,Personal_Savings,666,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_28,Dayamai Nori,Account,Personal_Savings,2942,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_29,Abeer Golla,Account,Personal_Savings,363,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_30,Nandini Boase,Account,Personal_Savings,2322,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_31,Azaan Chand,Account,Personal_Savings,947,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_32,Krisha Saini,Account,Personal_Savings,2492,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_33,Harita Dugar,Account,Personal_Savings,2458,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_34,Devika Nair,Account,Personal_Savings,1540,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_35,Charles Dugal,Account,Personal_Savings,1816,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_36,Chandran Bumb,Account,Personal_Savings,2336,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_37,Saanvi Samra,Account,Personal_Savings,1003,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_38,Riya Sachdeva,Account,Personal_Savings,1885,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_39,Tanveer Vala,Account,Personal_Savings,1476,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_40,Hemani Sani,Account,Personal_Savings,1756,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_41,Bhanumati Sur,Account,Personal_Savings,2014,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_42,Chakradev Kannan,Account,Personal_Savings,2287,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_43,Christopher Amble,Account,Personal_Savings,2524,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_44,Charvi Kakar,Account,Personal_Savings,443,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_45,Aadhya Mann,Account,Personal_Savings,1991,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_46,Jagdish Amble,Account,Personal_Savings,1652,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_47,Qushi Gill,Account,Personal_Savings,1438,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_48,Lajita Walia,Account,Personal_Savings,1652,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_49,Xiti Pandya,Account,Personal_Savings,1826,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_50,Mekhala Basak,Account,Personal_Savings,2026,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_51,Anirudh Sharaf,Account,Personal_Savings,313,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_52,Dhriti Sanghvi,Account,Personal_Savings,1018,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_53,Omisha Mann,Account,Personal_Savings,2769,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_54,Nidhi Bail,Account,Personal_Savings,1112,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_55,Onveer Sharma,Account,Personal_Savings,2644,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_56,Gaurang Sarkar,Account,Personal_Savings,2039,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_57,Yagnesh Sarin,Account,Personal_Savings,992,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_58,Farhan Randhawa,Account,Personal_Savings,1610,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_59,Harinakshi Kant,Account,Personal_Savings,569,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_60,Om Bose,Account,Personal_Savings,1374,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_61,Yashvi Hari,Account,Personal_Savings,1377,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_62,Indali Divan,Account,Personal_Savings,1724,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_63,Harshil Dhingra,Account,Personal_Savings,411,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_64,Rudra Ghose,Account,Personal_Savings,2669,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_65,Faqid Goel,Account,Personal_Savings,1335,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_66,Ucchal Sen,Account,Personal_Savings,595,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_67,Diya Dora,Account,Personal_Savings,268,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_68,Ekansh Singh,Account,Personal_Savings,2809,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_69,Chavvi Maharaj,Account,Personal_Savings,2752,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_70,Indira Tripathi,Account,Personal_Savings,1820,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_71,Dayita Shenoy,Account,Personal_Savings,1875,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_72,Baljiwan Bhandari,Account,Personal_Savings,1983,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_73,Bhavini Bose,Account,Personal_Savings,821,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_74,Yashica Rajagopalan,Account,Personal_Savings,1206,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_75,Benjamin Sengupta,Account,Personal_Savings,2080,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_76,Ekanta Soni,Account,Personal_Savings,2526,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_77,David Seshadri,Account,Personal_Savings,1105,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_78,Hemal Chad,Account,Personal_Savings,1242,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_79,Balveer Kota,Account,Personal_Savings,2003,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_80,Reva Viswanathan,Account,Personal_Savings,1652,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_81,Januja Pradhan,Account,Personal_Savings,1431,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_82,Lila Rege,Account,Personal_Savings,1553,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_83,Charles Natt,Account,Personal_Savings,1245,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_84,Forum Chandra,Account,Personal_Savings,1231,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_85,Bhanumati Krishnan,Account,Personal_Savings,882,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_86,Gauri Bumb,Account,Personal_Savings,1764,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_87,Inaya Mukherjee,Account,Personal_Savings,1084,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_88,Kai Chad,Account,Personal_Savings,2110,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_89,Krisha Narasimhan,Account,Personal_Savings,481,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_90,Girik Sampath,Account,Personal_Savings,2933,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_91,Andrew Patil,Account,Personal_Savings,2482,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_92,Pranit Kala,Account,Personal_Savings,2274,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_93,Vedika Handa,Account,Personal_Savings,2354,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_94,Laksh Dubey,Account,Personal_Savings,1958,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_95,Chakrika Chaudhuri,Account,Personal_Savings,1044,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_96,Gayathri Deep,Account,Personal_Savings,1392,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_97,Mitesh Gaba,Account,Personal_Savings,2926,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_98,Noah Sarma,Account,Personal_Savings,2083,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_99,Nirja Patla,Account,Personal_Savings,2248,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_100,Sachi Mane,Account,Personal_Savings,895,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_101,Vivaan Walla,Account,Personal_Savings,834,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_102,Dayamai Singh,Account,Personal_Savings,2287,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_103,Jhalak Sastry,Account,Personal_Savings,323,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_104,Baghyawati Raja,Account,Personal_Savings,617,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_105,Neel Iyengar,Account,Personal_Savings,2110,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_106,Zashil Ben,Account,Personal_Savings,2451,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_107,Kamya Chauhan,Account,Personal_Savings,1904,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_108,Bhavani Chacko,Account,Personal_Savings,1134,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_109,Anjali Sengupta,Account,Personal_Savings,567,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_110,Rajeshri Chand,Account,Personal_Savings,2114,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_111,Shravya Palla,Account,Personal_Savings,2911,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_112,Oeshi Bera,Account,Personal_Savings,2405,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_113,Yadavi Prakash,Account,Personal_Savings,1116,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_114,Libni Bumb,Account,Personal_Savings,1804,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_115,Udarsh Bala,Account,Personal_Savings,2633,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_116,Hardik Nayak,Account,Personal_Savings,1658,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_117,Laksh Barad,Account,Personal_Savings,1317,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_118,Urmi Dewan,Account,Personal_Savings,1350,1,0,LEGIT_UTILITY_HUB
+ACC_UTIL_CUST_119,Saumya Ahluwalia,Account,Personal_Savings,2597,1,0,LEGIT_UTILITY_HUB
+ACC_WEDDING_FAMILY,Sharma Family Trust,Account,Personal_Savings,1200,1,0,LEGIT_WEDDING_SPEND
+DEV_WEDDING_1,Device-WEDDING-F1:A2:B3:C4:D5:E6,Device,,0,0,0,LEGIT_WEDDING_SPEND
+MERCH_JEWELER_TANISHQ,Tanishq Jewellers,Merchant,Verified_Utility_Merchant,1651,1,0,LEGIT_WEDDING_SPEND
+MERCH_HOTEL_TAJ,Taj Hotels Bangalore,Merchant,Verified_Utility_Merchant,1443,1,0,LEGIT_WEDDING_SPEND
+MERCH_CATERING_HALDIRAM,Haldiram Catering,Merchant,Verified_Utility_Merchant,810,1,0,LEGIT_WEDDING_SPEND
+MERCH_AIRLINE_INDIGO,IndiGo Airlines,Merchant,Verified_Utility_Merchant,1992,1,0,LEGIT_WEDDING_SPEND
+MERCH_DECOR_FERNS,Ferns N Petals Decor,Merchant,Verified_Utility_Merchant,2659,1,0,LEGIT_WEDDING_SPEND
+MERCH_PHOTO_STUDIO,Wedding Clicks Studio,Merchant,Verified_Utility_Merchant,1610,1,0,LEGIT_WEDDING_SPEND
+MERCH_CLOTHING_MANYAVAR,Manyavar Clothing,Merchant,Verified_Utility_Merchant,1410,1,0,LEGIT_WEDDING_SPEND
+MERCH_VENUE_ITC,ITC Grand Chola Venue,Merchant,Verified_Utility_Merchant,1479,1,0,LEGIT_WEDDING_SPEND
+ACC_NORM_0,Anirudh Kunda,Account,Personal_Savings,2361,1,0,NORMAL
+ACC_NORM_1,Mason Wable,Account,Personal_Savings,1212,1,0,NORMAL
+ACC_NORM_2,Indrajit Mani,Account,Personal_Savings,1828,1,0,NORMAL
+ACC_NORM_3,Charvi Dara,Account,Personal_Savings,539,1,0,NORMAL
+ACC_NORM_4,William Saini,Account,Personal_Savings,1949,1,0,NORMAL
+ACC_NORM_5,Dev Choudhry,Account,Personal_Savings,1275,1,0,NORMAL
+ACC_NORM_6,Amol Varma,Account,Personal_Savings,1678,1,0,NORMAL
+ACC_NORM_7,Maanas Manne,Account,Personal_Savings,1145,1,0,NORMAL
+ACC_NORM_8,Aarav Pandit,Account,Personal_Savings,2079,1,0,NORMAL
+ACC_NORM_9,Omaja Grover,Account,Personal_Savings,2241,1,0,NORMAL
+ACC_NORM_10,Jalsa Bir,Account,Personal_Savings,2052,1,0,NORMAL
+ACC_NORM_11,Madhavi Singhal,Account,Personal_Savings,1823,1,0,NORMAL
+ACC_NORM_12,Lila Prakash,Account,Personal_Savings,359,1,0,NORMAL
+ACC_NORM_13,Amol Parikh,Account,Personal_Savings,2479,1,0,NORMAL
+ACC_NORM_14,Hemani Khosla,Account,Personal_Savings,193,1,0,NORMAL
+ACC_NORM_15,Gaurangi Deol,Account,Personal_Savings,1799,1,0,NORMAL
+ACC_NORM_16,Indira Nigam,Account,Personal_Savings,1350,1,0,NORMAL
+ACC_NORM_17,Ucchal Srinivas,Account,Personal_Savings,1055,1,0,NORMAL
+ACC_NORM_18,Krishna Bhatnagar,Account,Personal_Savings,135,1,0,NORMAL
+ACC_NORM_19,Balhaar Memon,Account,Personal_Savings,404,1,0,NORMAL
+ACC_NORM_20,Caleb Iyengar,Account,Personal_Savings,967,1,0,NORMAL
+ACC_NORM_21,Diya Mukherjee,Account,Personal_Savings,2386,1,0,NORMAL
+ACC_NORM_22,Urvashi Kulkarni,Account,Personal_Savings,2434,1,0,NORMAL
+ACC_NORM_23,Rayaan Mangal,Account,Personal_Savings,114,1,0,NORMAL
+ACC_NORM_24,Champak Narula,Account,Personal_Savings,1133,1,0,NORMAL
+ACC_NORM_25,Jeet Pillai,Account,Personal_Savings,2390,1,0,NORMAL
+ACC_NORM_26,Mugdha Sarraf,Account,Personal_Savings,194,1,0,NORMAL
+ACC_NORM_27,Harinakshi Grover,Account,Personal_Savings,747,1,0,NORMAL
+ACC_NORM_28,Widisha Pillai,Account,Personal_Savings,1957,1,0,NORMAL
+ACC_NORM_29,Fitan Samra,Account,Personal_Savings,2155,1,0,NORMAL
+ACC_NORM_30,Qushi Gole,Account,Personal_Savings,1841,1,0,NORMAL
+ACC_NORM_31,Ekani Chauhan,Account,Personal_Savings,1169,1,0,NORMAL
+ACC_NORM_32,Falak Merchant,Account,Personal_Savings,773,1,0,NORMAL
+ACC_NORM_33,Sanaya Sandhu,Account,Personal_Savings,2427,1,0,NORMAL
+ACC_NORM_34,Sachi Panchal,Account,Personal_Savings,1815,1,0,NORMAL
+ACC_NORM_35,Brijesh Pandit,Account,Personal_Savings,2044,1,0,NORMAL
+ACC_NORM_36,Anvi Bhandari,Account,Personal_Savings,403,1,0,NORMAL
+ACC_NORM_37,Nidra Patla,Account,Personal_Savings,1955,1,0,NORMAL
+ACC_NORM_38,Azaan Dhar,Account,Personal_Savings,1455,1,0,NORMAL
+ACC_NORM_39,Bakhshi Date,Account,Personal_Savings,1702,1,0,NORMAL
+ACC_NORM_40,Warinder Peri,Account,Personal_Savings,1395,1,0,NORMAL
+ACC_NORM_41,Leela Bali,Account,Personal_Savings,1345,1,0,NORMAL
+ACC_NORM_42,Shivani Prabhakar,Account,Personal_Savings,458,1,0,NORMAL
+ACC_NORM_43,Sachi Bose,Account,Personal_Savings,688,1,0,NORMAL
+ACC_NORM_44,Jeevika Rao,Account,Personal_Savings,1380,1,0,NORMAL
+ACC_NORM_45,Arya Krish,Account,Personal_Savings,1716,1,0,NORMAL
+ACC_NORM_46,Atharv Grewal,Account,Personal_Savings,2059,1,0,NORMAL
+ACC_NORM_47,Zarna Ram,Account,Personal_Savings,1210,1,0,NORMAL
+ACC_NORM_48,Adweta Lad,Account,Personal_Savings,1670,1,0,NORMAL
+ACC_NORM_49,Tanish Mangal,Account,Personal_Savings,2283,1,0,NORMAL
+ACC_NORM_50,Ryan Das,Account,Personal_Savings,180,1,0,NORMAL
+ACC_NORM_51,Ethan Seth,Account,Personal_Savings,1892,1,0,NORMAL
+ACC_NORM_52,Sai Chahal,Account,Personal_Savings,390,1,0,NORMAL
+ACC_NORM_53,Idika Bhattacharyya,Account,Personal_Savings,1318,1,0,NORMAL
+ACC_NORM_54,Charita Dugar,Account,Personal_Savings,1063,1,0,NORMAL
+ACC_NORM_55,Janaki Trivedi,Account,Personal_Savings,1354,1,0,NORMAL
+ACC_NORM_56,Jairaj Iyer,Account,Personal_Savings,504,1,0,NORMAL
+ACC_NORM_57,Warjas Tak,Account,Personal_Savings,1685,1,0,NORMAL
+ACC_NORM_58,Jalsa Pillay,Account,Personal_Savings,2137,1,0,NORMAL
+ACC_NORM_59,Kai Chadha,Account,Personal_Savings,34,1,0,NORMAL
+ACC_NORM_60,Dayamai Rao,Account,Personal_Savings,2252,1,0,NORMAL
+ACC_NORM_61,Nirja Rout,Account,Personal_Savings,1922,1,0,NORMAL
+ACC_NORM_62,Jeremiah Nadig,Account,Personal_Savings,1722,1,0,NORMAL
+ACC_NORM_63,Shivani Shukla,Account,Personal_Savings,252,1,0,NORMAL
+ACC_NORM_64,Kabir Gopal,Account,Personal_Savings,798,1,0,NORMAL
+ACC_NORM_65,Rachita Thakkar,Account,Personal_Savings,2153,1,0,NORMAL
+ACC_NORM_66,Jeet Vasa,Account,Personal_Savings,1511,1,0,NORMAL
+ACC_NORM_67,Daksha Gala,Account,Personal_Savings,2071,1,0,NORMAL
+ACC_NORM_68,Ekantika Kar,Account,Personal_Savings,1840,1,0,NORMAL
+ACC_NORM_69,Zilmil Mander,Account,Personal_Savings,241,1,0,NORMAL
+ACC_NORM_70,Zashil Hegde,Account,Personal_Savings,863,1,0,NORMAL
+ACC_NORM_71,Jeremiah Mitter,Account,Personal_Savings,1123,1,0,NORMAL
+ACC_NORM_72,Yadavi Ganguly,Account,Personal_Savings,2279,1,0,NORMAL
+ACC_NORM_73,Onveer Nazareth,Account,Personal_Savings,566,1,0,NORMAL
+ACC_NORM_74,Ayush Bumb,Account,Personal_Savings,1209,1,0,NORMAL
+ACC_NORM_75,Alka Kade,Account,Personal_Savings,1824,1,0,NORMAL
+ACC_NORM_76,Azaan Tank,Account,Personal_Savings,2015,1,0,NORMAL
+ACC_NORM_77,Chasmum Subramanian,Account,Personal_Savings,527,1,0,NORMAL
+ACC_NORM_78,Nidra Mishra,Account,Personal_Savings,148,1,0,NORMAL
+ACC_NORM_79,Elijah Bhasin,Account,Personal_Savings,1010,1,0,NORMAL
+ACC_NORM_80,Ria Sagar,Account,Personal_Savings,678,1,0,NORMAL
+ACC_NORM_81,Ucchal Jani,Account,Personal_Savings,1302,1,0,NORMAL
+ACC_NORM_82,Maanas Munshi,Account,Personal_Savings,2286,1,0,NORMAL
+ACC_NORM_83,Hemani Rastogi,Account,Personal_Savings,86,1,0,NORMAL
+ACC_NORM_84,Kamala Varma,Account,Personal_Savings,2292,1,0,NORMAL
+ACC_NORM_85,Eiravati Khurana,Account,Personal_Savings,1701,1,0,NORMAL
+ACC_NORM_86,Jason Loke,Account,Personal_Savings,411,1,0,NORMAL
+ACC_NORM_87,Yug Dhaliwal,Account,Personal_Savings,950,1,0,NORMAL
+ACC_NORM_88,Chandresh Mannan,Account,Personal_Savings,494,1,0,NORMAL
+ACC_NORM_89,Omya Kothari,Account,Personal_Savings,1920,1,0,NORMAL
+ACC_NORM_90,Falak Munshi,Account,Personal_Savings,511,1,0,NORMAL
+ACC_NORM_91,Nathaniel Tara,Account,Personal_Savings,660,1,0,NORMAL
+ACC_NORM_92,Wishi Morar,Account,Personal_Savings,2071,1,0,NORMAL
+ACC_NORM_93,Arin Chana,Account,Personal_Savings,1225,1,0,NORMAL
+ACC_NORM_94,Yashasvi Shankar,Account,Personal_Savings,2114,1,0,NORMAL
+ACC_NORM_95,Tanveer Pandit,Account,Personal_Savings,1149,1,0,NORMAL
+ACC_NORM_96,Chandresh Manda,Account,Personal_Savings,1731,1,0,NORMAL
+ACC_NORM_97,Upma Mangal,Account,Personal_Savings,2006,1,0,NORMAL
+ACC_NORM_98,Hritik Sankar,Account,Personal_Savings,1964,1,0,NORMAL
+ACC_NORM_99,Aishani Pau,Account,Personal_Savings,1028,1,0,NORMAL
+ACC_NORM_100,Jasmit Bath,Account,Personal_Savings,1900,1,0,NORMAL
+ACC_NORM_101,Charan Hayer,Account,Personal_Savings,2287,1,0,NORMAL
+ACC_NORM_102,Bhavya Borah,Account,Personal_Savings,622,1,0,NORMAL
+ACC_NORM_103,Yamini Seshadri,Account,Personal_Savings,1601,1,0,NORMAL
+ACC_NORM_104,Jagat Dave,Account,Personal_Savings,810,1,0,NORMAL
+ACC_NORM_105,Meera Prakash,Account,Personal_Savings,2485,1,0,NORMAL
+ACC_NORM_106,Jasmit Dhawan,Account,Personal_Savings,2111,1,0,NORMAL
+ACC_NORM_107,Yashodhara Ratti,Account,Personal_Savings,589,1,0,NORMAL
+ACC_NORM_108,Chakradev Barad,Account,Personal_Savings,315,1,0,NORMAL
+ACC_NORM_109,Gauri Som,Account,Personal_Savings,1161,1,0,NORMAL
+ACC_NORM_110,Manthan Varma,Account,Personal_Savings,1729,1,0,NORMAL
+ACC_NORM_111,Falak Nagar,Account,Personal_Savings,1422,1,0,NORMAL
+ACC_NORM_112,Maya Mistry,Account,Personal_Savings,2109,1,0,NORMAL
+ACC_NORM_113,Yashica Upadhyay,Account,Personal_Savings,1124,1,0,NORMAL
+ACC_NORM_114,Chandani Soman,Account,Personal_Savings,40,1,0,NORMAL
+ACC_NORM_115,Jyoti Narula,Account,Personal_Savings,1188,1,0,NORMAL
+ACC_NORM_116,Omaja Morar,Account,Personal_Savings,1252,1,0,NORMAL
+ACC_NORM_117,Urvi Lanka,Account,Personal_Savings,2434,1,0,NORMAL
+ACC_NORM_118,Charan Srinivasan,Account,Personal_Savings,2405,1,0,NORMAL
+ACC_NORM_119,Lajita Divan,Account,Personal_Savings,2035,1,0,NORMAL
+ACC_NORM_120,Azad Choudhary,Account,Personal_Savings,638,1,0,NORMAL
+ACC_NORM_121,Anirudh Sastry,Account,Personal_Savings,1859,1,0,NORMAL
+ACC_NORM_122,Omya Doshi,Account,Personal_Savings,2236,1,0,NORMAL
+ACC_NORM_123,Samar Roy,Account,Personal_Savings,2013,1,0,NORMAL
+ACC_NORM_124,David Devi,Account,Personal_Savings,1443,1,0,NORMAL
+ACC_NORM_125,Ekta Sridhar,Account,Personal_Savings,1391,1,0,NORMAL
+ACC_NORM_126,Dipta Ghose,Account,Personal_Savings,2290,1,0,NORMAL
+ACC_NORM_127,Hema Pandya,Account,Personal_Savings,2255,1,0,NORMAL
+ACC_NORM_128,Veda Handa,Account,Personal_Savings,1575,1,0,NORMAL
+ACC_NORM_129,Arya Misra,Account,Personal_Savings,1895,1,0,NORMAL
+ACC_NORM_130,Chameli Mani,Account,Personal_Savings,1348,1,0,NORMAL
+ACC_NORM_131,Vrinda Nadig,Account,Personal_Savings,802,1,0,NORMAL
+ACC_NORM_132,Ikshita Mahal,Account,Personal_Savings,1008,1,0,NORMAL
+ACC_NORM_133,Jairaj Raghavan,Account,Personal_Savings,2372,1,0,NORMAL
+ACC_NORM_134,Hemani Dhingra,Account,Personal_Savings,1598,1,0,NORMAL
+ACC_NORM_135,Brijesh Mani,Account,Personal_Savings,986,1,0,NORMAL
+ACC_NORM_136,Hiral Sathe,Account,Personal_Savings,1712,1,0,NORMAL
+ACC_NORM_137,Varenya Kala,Account,Personal_Savings,208,1,0,NORMAL
+ACC_NORM_138,Anika Magar,Account,Personal_Savings,1333,1,0,NORMAL
+ACC_NORM_139,Ikbal Khatri,Account,Personal_Savings,1967,1,0,NORMAL
+ACC_NORM_140,Chandresh Wali,Account,Personal_Savings,1591,1,0,NORMAL
+ACC_NORM_141,Viraj Ben,Account,Personal_Savings,1611,1,0,NORMAL
+ACC_NORM_142,Odika Narayanan,Account,Personal_Savings,653,1,0,NORMAL
+ACC_NORM_143,Harish Devan,Account,Personal_Savings,2058,1,0,NORMAL
+ACC_NORM_144,Nakul Ray,Account,Personal_Savings,181,1,0,NORMAL
+ACC_NORM_145,Vansha Iyengar,Account,Personal_Savings,547,1,0,NORMAL
+ACC_NORM_146,Ekani Mangal,Account,Personal_Savings,2087,1,0,NORMAL
+ACC_NORM_147,Gaurav Kata,Account,Personal_Savings,2447,1,0,NORMAL
+ACC_NORM_148,Parth Sahni,Account,Personal_Savings,1389,1,0,NORMAL
+ACC_NORM_149,Balhaar Ranganathan,Account,Personal_Savings,441,1,0,NORMAL
+ACC_NORM_150,Quincy Mann,Account,Personal_Savings,1833,1,0,NORMAL
+ACC_NORM_151,Aditya Misra,Account,Personal_Savings,438,1,0,NORMAL
+ACC_NORM_152,Gautami Mane,Account,Personal_Savings,2184,1,0,NORMAL
+ACC_NORM_153,Wakeeta Desai,Account,Personal_Savings,1901,1,0,NORMAL
+ACC_NORM_154,Anjali Hans,Account,Personal_Savings,92,1,0,NORMAL
+ACC_NORM_155,Ganga Gaba,Account,Personal_Savings,620,1,0,NORMAL
+ACC_NORM_156,Aarini Grewal,Account,Personal_Savings,1709,1,0,NORMAL
+ACC_NORM_157,Geetika Merchant,Account,Personal_Savings,662,1,0,NORMAL
+ACC_NORM_158,Parth Ravi,Account,Personal_Savings,336,1,0,NORMAL
+ACC_NORM_159,Yutika Narang,Account,Personal_Savings,1953,1,0,NORMAL
+ACC_NORM_160,Nandini Chandran,Account,Personal_Savings,1115,1,0,NORMAL
+ACC_NORM_161,Logan Sood,Account,Personal_Savings,1416,1,0,NORMAL
+ACC_NORM_162,Yuvraj Ahuja,Account,Personal_Savings,1658,1,0,NORMAL
+ACC_NORM_163,Leela Keer,Account,Personal_Savings,358,1,0,NORMAL
+ACC_NORM_164,Amara Narayan,Account,Personal_Savings,1375,1,0,NORMAL
+ACC_NORM_165,Advay Lal,Account,Personal_Savings,2215,1,0,NORMAL
+ACC_NORM_166,Warinder Bhatia,Account,Personal_Savings,1586,1,0,NORMAL
+ACC_NORM_167,Udyati Mohanty,Account,Personal_Savings,1327,1,0,NORMAL
+ACC_NORM_168,Nidra Thakkar,Account,Personal_Savings,2028,1,0,NORMAL
+ACC_NORM_169,Jacob Merchant,Account,Personal_Savings,2246,1,0,NORMAL
+ACC_NORM_170,Timothy Kanda,Account,Personal_Savings,177,1,0,NORMAL
+ACC_NORM_171,Vanya Dua,Account,Personal_Savings,310,1,0,NORMAL
+ACC_NORM_172,Kashvi Sagar,Account,Personal_Savings,991,1,0,NORMAL
+ACC_NORM_173,Tejas Kota,Account,Personal_Savings,1207,1,0,NORMAL
+ACC_NORM_174,Sanya Wable,Account,Personal_Savings,961,1,0,NORMAL
+ACC_NORM_175,Faras Choudhury,Account,Personal_Savings,400,1,0,NORMAL
+ACC_NORM_176,Yashasvi Jain,Account,Personal_Savings,1807,1,0,NORMAL
+ACC_NORM_177,Nitesh Narang,Account,Personal_Savings,433,1,0,NORMAL
+ACC_NORM_178,Jackson Jha,Account,Personal_Savings,441,1,0,NORMAL
+ACC_NORM_179,Gavin Uppal,Account,Personal_Savings,1847,1,0,NORMAL
+ACC_NORM_180,Christopher Setty,Account,Personal_Savings,711,1,0,NORMAL
+ACC_NORM_181,Yochana Sagar,Account,Personal_Savings,1256,1,0,NORMAL
+ACC_NORM_182,Dalbir Shere,Account,Personal_Savings,148,1,0,NORMAL
+ACC_NORM_183,Anthony Randhawa,Account,Personal_Savings,218,1,0,NORMAL
+ACC_NORM_184,Aarush Kamdar,Account,Personal_Savings,1358,1,0,NORMAL
+ACC_NORM_185,Chakradev Sampath,Account,Personal_Savings,259,1,0,NORMAL
+ACC_NORM_186,Devansh Bhasin,Account,Personal_Savings,1231,1,0,NORMAL
+ACC_NORM_187,Urmi Balay,Account,Personal_Savings,1498,1,0,NORMAL
+ACC_NORM_188,Nilima Gole,Account,Personal_Savings,1565,1,0,NORMAL
+ACC_NORM_189,Osha Prasad,Account,Personal_Savings,1794,1,0,NORMAL
+ACC_NORM_190,Saumya Purohit,Account,Personal_Savings,626,1,0,NORMAL
+ACC_NORM_191,Faris Zacharia,Account,Personal_Savings,1030,1,0,NORMAL
+ACC_NORM_192,Ijaya Dani,Account,Personal_Savings,2205,1,0,NORMAL
+ACC_NORM_193,Maya Wadhwa,Account,Personal_Savings,1717,1,0,NORMAL
+ACC_NORM_194,Udant Aggarwal,Account,Personal_Savings,2348,1,0,NORMAL
+ACC_NORM_195,Chanchal Sheth,Account,Personal_Savings,767,1,0,NORMAL
+ACC_NORM_196,Ladli Karpe,Account,Personal_Savings,726,1,0,NORMAL
+ACC_NORM_197,Triveni Pal,Account,Personal_Savings,747,1,0,NORMAL
+ACC_NORM_198,Anya Gulati,Account,Personal_Savings,353,1,0,NORMAL
+ACC_NORM_199,Azad Saini,Account,Personal_Savings,1596,1,0,NORMAL
+ACC_NORM_200,Wridesh Jhaveri,Account,Personal_Savings,1016,1,0,NORMAL
+ACC_NORM_201,Harrison Bandi,Account,Personal_Savings,2068,1,0,NORMAL
+ACC_NORM_202,Chanakya Konda,Account,Personal_Savings,2418,1,0,NORMAL
+ACC_NORM_203,Neelima Sarna,Account,Personal_Savings,616,1,0,NORMAL
+ACC_NORM_204,Teerth Bhalla,Account,Personal_Savings,981,1,0,NORMAL
+ACC_NORM_205,Yahvi Mann,Account,Personal_Savings,1918,1,0,NORMAL
+ACC_NORM_206,Eiravati Nagi,Account,Personal_Savings,1070,1,0,NORMAL
+ACC_NORM_207,Chasmum Dhar,Account,Personal_Savings,1912,1,0,NORMAL
+ACC_NORM_208,Odika Mital,Account,Personal_Savings,1075,1,0,NORMAL
+ACC_NORM_209,Darsh Gill,Account,Personal_Savings,68,1,0,NORMAL
+ACC_NORM_210,Warhi Batta,Account,Personal_Savings,1935,1,0,NORMAL
+ACC_NORM_211,Lakshmi Vohra,Account,Personal_Savings,1208,1,0,NORMAL
+ACC_NORM_212,Omaja Rege,Account,Personal_Savings,2268,1,0,NORMAL
+ACC_NORM_213,Charita Puri,Account,Personal_Savings,677,1,0,NORMAL
+ACC_NORM_214,Urvashi Khosla,Account,Personal_Savings,332,1,0,NORMAL
+ACC_NORM_215,Charita Dhawan,Account,Personal_Savings,1839,1,0,NORMAL
+ACC_NORM_216,Dalbir Sachar,Account,Personal_Savings,1445,1,0,NORMAL
+ACC_NORM_217,Krish Rama,Account,Personal_Savings,2436,1,0,NORMAL
+ACC_NORM_218,Aadhya Jani,Account,Personal_Savings,1255,1,0,NORMAL
+ACC_NORM_219,Farhan Sengupta,Account,Personal_Savings,1767,1,0,NORMAL
+ACC_NORM_220,George Wason,Account,Personal_Savings,1054,1,0,NORMAL
+ACC_NORM_221,Charan Loyal,Account,Personal_Savings,1901,1,0,NORMAL
+ACC_NORM_222,Balveer Bora,Account,Personal_Savings,1267,1,0,NORMAL
+ACC_NORM_223,Teerth Srinivas,Account,Personal_Savings,845,1,0,NORMAL
+ACC_NORM_224,Gaurangi Mitter,Account,Personal_Savings,1605,1,0,NORMAL
+ACC_NORM_225,Siddharth Gupta,Account,Personal_Savings,2009,1,0,NORMAL
+ACC_NORM_226,Varenya Kibe,Account,Personal_Savings,466,1,0,NORMAL
+ACC_NORM_227,Mekhala Khatri,Account,Personal_Savings,1001,1,0,NORMAL
+ACC_NORM_228,Barkha Rai,Account,Personal_Savings,1592,1,0,NORMAL
+ACC_NORM_229,Jagrati Morar,Account,Personal_Savings,2372,1,0,NORMAL
+ACC_NORM_230,Jagvi Varghese,Account,Personal_Savings,1500,1,0,NORMAL
+ACC_NORM_231,Unnati Chaudhari,Account,Personal_Savings,2384,1,0,NORMAL
+ACC_NORM_232,Ekaja Jani,Account,Personal_Savings,1241,1,0,NORMAL
+ACC_NORM_233,Dhriti Sachdev,Account,Personal_Savings,1239,1,0,NORMAL
+ACC_NORM_234,Timothy Dhingra,Account,Personal_Savings,119,1,0,NORMAL
+ACC_NORM_235,Advika Sahni,Account,Personal_Savings,1651,1,0,NORMAL
+ACC_NORM_236,Michael Hayre,Account,Personal_Savings,1154,1,0,NORMAL
+ACC_NORM_237,Victor Raghavan,Account,Personal_Savings,63,1,0,NORMAL
+ACC_NORM_238,Xalak Nazareth,Account,Personal_Savings,2348,1,0,NORMAL
+ACC_NORM_239,Vrinda Swaminathan,Account,Personal_Savings,230,1,0,NORMAL
+ACC_NORM_240,Om Pandey,Account,Personal_Savings,2064,1,0,NORMAL
+ACC_NORM_241,Logan Suresh,Account,Personal_Savings,1202,1,0,NORMAL
+ACC_NORM_242,Daniel Viswanathan,Account,Personal_Savings,972,1,0,NORMAL
+ACC_NORM_243,Falan Bava,Account,Personal_Savings,1473,1,0,NORMAL
+ACC_NORM_244,Nitara Devan,Account,Personal_Savings,927,1,0,NORMAL
+ACC_NORM_245,Ekansh Dora,Account,Personal_Savings,808,1,0,NORMAL
+ACC_NORM_246,Tejas Tiwari,Account,Personal_Savings,1056,1,0,NORMAL
+ACC_NORM_247,Kashvi Bhasin,Account,Personal_Savings,590,1,0,NORMAL
+ACC_NORM_248,Vinaya Babu,Account,Personal_Savings,427,1,0,NORMAL
+ACC_NORM_249,Nisha Arora,Account,Personal_Savings,191,1,0,NORMAL
+ACC_NORM_250,Anvi Wason,Account,Personal_Savings,1295,1,0,NORMAL
+ACC_NORM_251,Anay Thakkar,Account,Personal_Savings,1835,1,0,NORMAL
+ACC_NORM_252,Praneel Chhabra,Account,Personal_Savings,166,1,0,NORMAL
+ACC_NORM_253,Manthan Khosla,Account,Personal_Savings,2403,1,0,NORMAL
+ACC_NORM_254,Zayyan Pandya,Account,Personal_Savings,1524,1,0,NORMAL
+ACC_NORM_255,Mekhala Brar,Account,Personal_Savings,568,1,0,NORMAL
+ACC_NORM_256,Nidra Sharaf,Account,Personal_Savings,399,1,0,NORMAL
+ACC_NORM_257,Upkaar Mital,Account,Personal_Savings,1238,1,0,NORMAL
+ACC_NORM_258,Azad Chander,Account,Personal_Savings,1368,1,0,NORMAL
+ACC_NORM_259,Ladli Purohit,Account,Personal_Savings,1731,1,0,NORMAL
+ACC_NORM_260,Daksh Andra,Account,Personal_Savings,749,1,0,NORMAL
+ACC_NORM_261,Fitan Tata,Account,Personal_Savings,852,1,0,NORMAL
+ACC_NORM_262,Garima Chandran,Account,Personal_Savings,571,1,0,NORMAL
+ACC_NORM_263,Victor Kakar,Account,Personal_Savings,2239,1,0,NORMAL
+ACC_NORM_264,Anika Batra,Account,Personal_Savings,1528,1,0,NORMAL
+ACC_NORM_265,Avni Bali,Account,Personal_Savings,2204,1,0,NORMAL
+ACC_NORM_266,Divya Babu,Account,Personal_Savings,2085,1,0,NORMAL
+ACC_NORM_267,Maanas Rao,Account,Personal_Savings,1146,1,0,NORMAL
+ACC_NORM_268,Chandani Gaba,Account,Personal_Savings,703,1,0,NORMAL
+ACC_NORM_269,Lopa Zachariah,Account,Personal_Savings,1082,1,0,NORMAL
+ACC_NORM_270,Leena Dey,Account,Personal_Savings,2003,1,0,NORMAL
+ACC_NORM_271,Xiti Pal,Account,Personal_Savings,1238,1,0,NORMAL
+ACC_NORM_272,Guneet Sarkar,Account,Personal_Savings,1417,1,0,NORMAL
+ACC_NORM_273,Faqid Oak,Account,Personal_Savings,501,1,0,NORMAL
+ACC_NORM_274,Eta Balan,Account,Personal_Savings,1948,1,0,NORMAL
+ACC_NORM_275,Shravya Swaminathan,Account,Personal_Savings,338,1,0,NORMAL
+ACC_NORM_276,Ishani Prashad,Account,Personal_Savings,606,1,0,NORMAL
+ACC_NORM_277,Quincy Rai,Account,Personal_Savings,954,1,0,NORMAL
+ACC_NORM_278,Chakrika Koshy,Account,Personal_Savings,1657,1,0,NORMAL
+ACC_NORM_279,Fitan Loyal,Account,Personal_Savings,2312,1,0,NORMAL
+ACC_NORM_280,Lajita Dube,Account,Personal_Savings,1528,1,0,NORMAL
+ACC_NORM_281,Edhitha Patel,Account,Personal_Savings,399,1,0,NORMAL
+ACC_NORM_282,Gavin Ahluwalia,Account,Personal_Savings,1646,1,0,NORMAL
+ACC_NORM_283,Sai Parsa,Account,Personal_Savings,87,1,0,NORMAL
+ACC_NORM_284,Harsh Deo,Account,Personal_Savings,1113,1,0,NORMAL
+ACC_NORM_285,Rachit Sankar,Account,Personal_Savings,2227,1,0,NORMAL
+ACC_NORM_286,Yauvani Reddy,Account,Personal_Savings,536,1,0,NORMAL
+ACC_NORM_287,Atharv Chakraborty,Account,Personal_Savings,1892,1,0,NORMAL
+ACC_NORM_288,Girik Nair,Account,Personal_Savings,1539,1,0,NORMAL
+ACC_NORM_289,Advik Manne,Account,Personal_Savings,1103,1,0,NORMAL
+ACC_NORM_290,Lipika Chad,Account,Personal_Savings,2424,1,0,NORMAL
+ACC_NORM_291,Omkaar Rai,Account,Personal_Savings,1590,1,0,NORMAL
+ACC_NORM_292,Liam Luthra,Account,Personal_Savings,1551,1,0,NORMAL
+ACC_NORM_293,Amrita Tailor,Account,Personal_Savings,473,1,0,NORMAL
+ACC_NORM_294,Dev Ganesh,Account,Personal_Savings,987,1,0,NORMAL
+ACC_NORM_295,Anya Sama,Account,Personal_Savings,1961,1,0,NORMAL
+ACC_NORM_296,Veda Bose,Account,Personal_Savings,132,1,0,NORMAL
+ACC_NORM_297,Zayan Koshy,Account,Personal_Savings,2329,1,0,NORMAL
+ACC_NORM_298,Rohan Shankar,Account,Personal_Savings,1373,1,0,NORMAL
+ACC_NORM_299,Krishna Modi,Account,Personal_Savings,936,1,0,NORMAL
+ACC_NORM_300,Meghana Natarajan,Account,Personal_Savings,288,1,0,NORMAL
+ACC_NORM_301,Forum Sarraf,Account,Personal_Savings,1931,1,0,NORMAL
+ACC_NORM_302,Qushi Deshpande,Account,Personal_Savings,1267,1,0,NORMAL
+ACC_NORM_303,Ekani Iyer,Account,Personal_Savings,1702,1,0,NORMAL
+ACC_NORM_304,Dipta Goel,Account,Personal_Savings,507,1,0,NORMAL
+ACC_NORM_305,Eiravati Manne,Account,Personal_Savings,602,1,0,NORMAL
+ACC_NORM_306,Xavier Nanda,Account,Personal_Savings,215,1,0,NORMAL
+ACC_NORM_307,Avni Ramaswamy,Account,Personal_Savings,182,1,0,NORMAL
+ACC_NORM_308,Ishaan Iyengar,Account,Personal_Savings,1276,1,0,NORMAL
+ACC_NORM_309,Avi Shenoy,Account,Personal_Savings,2047,1,0,NORMAL
+ACC_NORM_310,Raksha Manne,Account,Personal_Savings,505,1,0,NORMAL
+ACC_NORM_311,Nilima Tata,Account,Personal_Savings,428,1,0,NORMAL
+ACC_NORM_312,Chavvi Khurana,Account,Personal_Savings,991,1,0,NORMAL
+ACC_NORM_313,Mitesh Sampath,Account,Personal_Savings,2231,1,0,NORMAL
+ACC_NORM_314,Ethan Sen,Account,Personal_Savings,585,1,0,NORMAL
+ACC_NORM_315,Nandini Warrior,Account,Personal_Savings,1621,1,0,NORMAL
+ACC_NORM_316,Balhaar Parsa,Account,Personal_Savings,1888,1,0,NORMAL
+ACC_NORM_317,Ikbal Kothari,Account,Personal_Savings,1549,1,0,NORMAL
+ACC_NORM_318,Ojas Basu,Account,Personal_Savings,2242,1,0,NORMAL
+ACC_NORM_319,Garima Sani,Account,Personal_Savings,1746,1,0,NORMAL
+ACC_NORM_320,Advaith Chaudhari,Account,Personal_Savings,2435,1,0,NORMAL
+ACC_NORM_321,Tristan Uppal,Account,Personal_Savings,662,1,0,NORMAL
+ACC_NORM_322,Sanaya Prasad,Account,Personal_Savings,1729,1,0,NORMAL
+ACC_NORM_323,Ubika Tella,Account,Personal_Savings,435,1,0,NORMAL
+ACC_NORM_324,Hemani Bakshi,Account,Personal_Savings,2034,1,0,NORMAL
+ACC_NORM_325,Henry Merchant,Account,Personal_Savings,1701,1,0,NORMAL
+ACC_NORM_326,Frederick D’Alia,Account,Personal_Savings,1175,1,0,NORMAL
+ACC_NORM_327,Ijaya Muni,Account,Personal_Savings,164,1,0,NORMAL
+ACC_NORM_328,Tamanna Jhaveri,Account,Personal_Savings,1547,1,0,NORMAL
+ACC_NORM_329,Ijaya Soni,Account,Personal_Savings,919,1,0,NORMAL
+ACC_NORM_330,Raksha Sethi,Account,Personal_Savings,1846,1,0,NORMAL
+ACC_NORM_331,Ekalinga Mital,Account,Personal_Savings,1851,1,0,NORMAL
+ACC_NORM_332,Ishwar Bajaj,Account,Personal_Savings,997,1,0,NORMAL
+ACC_NORM_333,Ikbal Gala,Account,Personal_Savings,1515,1,0,NORMAL
+ACC_NORM_334,Zaitra Ghosh,Account,Personal_Savings,436,1,0,NORMAL
+ACC_NORM_335,Ganga Sandhu,Account,Personal_Savings,1534,1,0,NORMAL
+ACC_NORM_336,Vincent Ravel,Account,Personal_Savings,2260,1,0,NORMAL
+ACC_NORM_337,Quincy Sankaran,Account,Personal_Savings,1499,1,0,NORMAL
+ACC_NORM_338,Ayush Hora,Account,Personal_Savings,278,1,0,NORMAL
+ACC_NORM_339,Pushti Ramachandran,Account,Personal_Savings,1660,1,0,NORMAL
+ACC_NORM_340,Tanish Jha,Account,Personal_Savings,1160,1,0,NORMAL
+ACC_NORM_341,Dev Chaudry,Account,Personal_Savings,807,1,0,NORMAL
+ACC_NORM_342,Jasmit Nanda,Account,Personal_Savings,530,1,0,NORMAL
+ACC_NORM_343,Tanvi Comar,Account,Personal_Savings,1892,1,0,NORMAL
+ACC_NORM_344,Vrishti Wable,Account,Personal_Savings,405,1,0,NORMAL
+ACC_NORM_345,Lipika Ramanathan,Account,Personal_Savings,898,1,0,NORMAL
+ACC_NORM_346,Ijaya Pandey,Account,Personal_Savings,2475,1,0,NORMAL
+ACC_NORM_347,Orinder Mishra,Account,Personal_Savings,117,1,0,NORMAL
+ACC_NORM_348,Krish Munshi,Account,Personal_Savings,237,1,0,NORMAL
+ACC_NORM_349,William Mody,Account,Personal_Savings,1396,1,0,NORMAL
+ACC_NORM_350,Qadim Prakash,Account,Personal_Savings,1027,1,0,NORMAL
+ACC_NORM_351,Yasti Rama,Account,Personal_Savings,545,1,0,NORMAL
+ACC_NORM_352,Lakshit Rajagopal,Account,Personal_Savings,2342,1,0,NORMAL
+ACC_NORM_353,Quincy Sur,Account,Personal_Savings,870,1,0,NORMAL
+ACC_NORM_354,Ojas Suri,Account,Personal_Savings,311,1,0,NORMAL
+ACC_NORM_355,Logan Grover,Account,Personal_Savings,2300,1,0,NORMAL
+ACC_NORM_356,Shravya Bera,Account,Personal_Savings,878,1,0,NORMAL
+ACC_NORM_357,Aditya Sundaram,Account,Personal_Savings,2431,1,0,NORMAL
+ACC_NORM_358,Robert Rajagopalan,Account,Personal_Savings,914,1,0,NORMAL
+ACC_NORM_359,Nilima Swamy,Account,Personal_Savings,984,1,0,NORMAL
+ACC_NORM_360,Sachi Suresh,Account,Personal_Savings,1375,1,0,NORMAL
+ACC_NORM_361,Fitan Balasubramanian,Account,Personal_Savings,634,1,0,NORMAL
+ACC_NORM_362,Brinda Bali,Account,Personal_Savings,2471,1,0,NORMAL
+ACC_NORM_363,Umang Yogi,Account,Personal_Savings,41,1,0,NORMAL
+ACC_NORM_364,Om Shankar,Account,Personal_Savings,1165,1,0,NORMAL
+ACC_NORM_365,Yasti Chowdhury,Account,Personal_Savings,622,1,0,NORMAL
+ACC_NORM_366,Amrita Peri,Account,Personal_Savings,562,1,0,NORMAL
+ACC_NORM_367,Ridhi Kamdar,Account,Personal_Savings,2242,1,0,NORMAL
+ACC_NORM_368,Harsh Kota,Account,Personal_Savings,1056,1,0,NORMAL
+ACC_NORM_369,Bachittar Sengupta,Account,Personal_Savings,744,1,0,NORMAL
+ACC_NORM_370,Ijaya Chahal,Account,Personal_Savings,480,1,0,NORMAL
+ACC_NORM_371,Jacob Khalsa,Account,Personal_Savings,135,1,0,NORMAL
+ACC_NORM_372,Indali Sangha,Account,Personal_Savings,569,1,0,NORMAL
+ACC_NORM_373,Liam Jhaveri,Account,Personal_Savings,90,1,0,NORMAL
+ACC_NORM_374,Daniel Panchal,Account,Personal_Savings,1497,1,0,NORMAL
+ACC_NORM_375,Om Naik,Account,Personal_Savings,1004,1,0,NORMAL
+ACC_NORM_376,Bimala Loke,Account,Personal_Savings,2441,1,0,NORMAL
+ACC_NORM_377,Krishna Sabharwal,Account,Personal_Savings,1356,1,0,NORMAL
+ACC_NORM_378,Aradhana Date,Account,Personal_Savings,94,1,0,NORMAL
+ACC_NORM_379,Zaid Dhingra,Account,Personal_Savings,743,1,0,NORMAL
+ACC_NORM_380,Yug Ramaswamy,Account,Personal_Savings,1116,1,0,NORMAL
+ACC_NORM_381,Lucky Luthra,Account,Personal_Savings,244,1,0,NORMAL
+ACC_NORM_382,Keya Seth,Account,Personal_Savings,549,1,0,NORMAL
+ACC_NORM_383,Girik Rau,Account,Personal_Savings,1754,1,0,NORMAL
+ACC_NORM_384,Jyoti Sha,Account,Personal_Savings,2184,1,0,NORMAL
+ACC_NORM_385,Falak Agate,Account,Personal_Savings,495,1,0,NORMAL
+ACC_NORM_386,Tara Parmar,Account,Personal_Savings,290,1,0,NORMAL
+ACC_NORM_387,Mitali Kamdar,Account,Personal_Savings,1980,1,0,NORMAL
+ACC_NORM_388,Siddharth Talwar,Account,Personal_Savings,1866,1,0,NORMAL
+ACC_NORM_389,Ekantika Mander,Account,Personal_Savings,1512,1,0,NORMAL
+ACC_NORM_390,Kalpit Sundaram,Account,Personal_Savings,2132,1,0,NORMAL
+ACC_NORM_391,Chanakya Batra,Account,Personal_Savings,2461,1,0,NORMAL
+ACC_NORM_392,Tripti Babu,Account,Personal_Savings,476,1,0,NORMAL
+ACC_NORM_393,Nakul Sastry,Account,Personal_Savings,1881,1,0,NORMAL
+ACC_NORM_394,Aadi Sangha,Account,Personal_Savings,2093,1,0,NORMAL
+ACC_NORM_395,Kevin Mittal,Account,Personal_Savings,937,1,0,NORMAL
+ACC_NORM_396,Anusha Chander,Account,Personal_Savings,207,1,0,NORMAL
+ACC_NORM_397,Zashil Butala,Account,Personal_Savings,2165,1,0,NORMAL
+ACC_NORM_398,Noah Ben,Account,Personal_Savings,1265,1,0,NORMAL
+ACC_NORM_399,Dalaja Kaur,Account,Personal_Savings,1906,1,0,NORMAL
+ACC_NORM_400,Gavin Chandran,Account,Personal_Savings,157,1,0,NORMAL
+ACC_NORM_401,Tanay Sood,Account,Personal_Savings,279,1,0,NORMAL
+ACC_NORM_402,Kevin Kara,Account,Personal_Savings,1991,1,0,NORMAL
+ACC_NORM_403,Aditya Anand,Account,Personal_Savings,1675,1,0,NORMAL
+ACC_NORM_404,Jai Sami,Account,Personal_Savings,1776,1,0,NORMAL
+ACC_NORM_405,Vanya Bobal,Account,Personal_Savings,472,1,0,NORMAL
+ACC_NORM_406,Leela Chakraborty,Account,Personal_Savings,2038,1,0,NORMAL
+ACC_NORM_407,Harshil Munshi,Account,Personal_Savings,1846,1,0,NORMAL
+ACC_NORM_408,Chandani Devan,Account,Personal_Savings,331,1,0,NORMAL
+ACC_NORM_409,Kiaan Dhar,Account,Personal_Savings,360,1,0,NORMAL
+ACC_NORM_410,Abhiram Gala,Account,Personal_Savings,1349,1,0,NORMAL
+ACC_NORM_411,Indali Kala,Account,Personal_Savings,637,1,0,NORMAL
+ACC_NORM_412,Nisha Savant,Account,Personal_Savings,299,1,0,NORMAL
+ACC_NORM_413,Gabriel Chaudhry,Account,Personal_Savings,546,1,0,NORMAL
+ACC_NORM_414,Jatin Rajagopalan,Account,Personal_Savings,1156,1,0,NORMAL
+ACC_NORM_415,Pushti Murty,Account,Personal_Savings,2427,1,0,NORMAL
+ACC_NORM_416,Yug Malhotra,Account,Personal_Savings,2276,1,0,NORMAL
+ACC_NORM_417,Yuvraj Mane,Account,Personal_Savings,1361,1,0,NORMAL
+ACC_NORM_418,Charvi Jha,Account,Personal_Savings,1590,1,0,NORMAL
+ACC_NORM_419,Manya Merchant,Account,Personal_Savings,2476,1,0,NORMAL
+ACC_NORM_420,Wriddhish Talwar,Account,Personal_Savings,2203,1,0,NORMAL
+ACC_NORM_421,Isaiah Khosla,Account,Personal_Savings,1237,1,0,NORMAL
+ACC_NORM_422,Ekavir Wable,Account,Personal_Savings,1888,1,0,NORMAL
+ACC_NORM_423,Jalsa Nadig,Account,Personal_Savings,2100,1,0,NORMAL
+ACC_NORM_424,Lila Salvi,Account,Personal_Savings,1792,1,0,NORMAL
+ACC_NORM_425,Orinder Sinha,Account,Personal_Savings,436,1,0,NORMAL
+ACC_NORM_426,Anay Bir,Account,Personal_Savings,498,1,0,NORMAL
+ACC_NORM_427,Adweta Kale,Account,Personal_Savings,2288,1,0,NORMAL
+ACC_NORM_428,Darpan Rao,Account,Personal_Savings,910,1,0,NORMAL
+ACC_NORM_429,Yachana Sagar,Account,Personal_Savings,1791,1,0,NORMAL
+ACC_NORM_430,Neelima Butala,Account,Personal_Savings,1879,1,0,NORMAL
+ACC_NORM_431,Arunima Chacko,Account,Personal_Savings,965,1,0,NORMAL
+ACC_NORM_432,Farhan Vaidya,Account,Personal_Savings,1724,1,0,NORMAL
+ACC_NORM_433,Nachiket Yadav,Account,Personal_Savings,1418,1,0,NORMAL
+ACC_NORM_434,Mahika Bhatti,Account,Personal_Savings,1887,1,0,NORMAL
+ACC_NORM_435,Rajeshri Khare,Account,Personal_Savings,1663,1,0,NORMAL
+ACC_NORM_436,Yash Chadha,Account,Personal_Savings,1733,1,0,NORMAL
+ACC_NORM_437,Jack Setty,Account,Personal_Savings,419,1,0,NORMAL
+ACC_NORM_438,Dayamai Gill,Account,Personal_Savings,1310,1,0,NORMAL
+ACC_NORM_439,Advik Devan,Account,Personal_Savings,1778,1,0,NORMAL
+ACC_NORM_440,Nihal Taneja,Account,Personal_Savings,1310,1,0,NORMAL
+ACC_NORM_441,Zansi Lad,Account,Personal_Savings,1074,1,0,NORMAL
+ACC_NORM_442,Kamya Date,Account,Personal_Savings,1563,1,0,NORMAL
+ACC_NORM_443,Jacob Balan,Account,Personal_Savings,655,1,0,NORMAL
+ACC_NORM_444,Pushti Magar,Account,Personal_Savings,1972,1,0,NORMAL
+ACC_NORM_445,Adya Bose,Account,Personal_Savings,304,1,0,NORMAL
+ACC_NORM_446,Tamanna Vaidya,Account,Personal_Savings,403,1,0,NORMAL
+ACC_NORM_447,Christopher Tata,Account,Personal_Savings,379,1,0,NORMAL
+ACC_NORM_448,Jhalak Dugar,Account,Personal_Savings,411,1,0,NORMAL
+ACC_NORM_449,Harshil D’Alia,Account,Personal_Savings,1798,1,0,NORMAL
+ACC_NORM_450,Yashodhara Agate,Account,Personal_Savings,425,1,0,NORMAL
+ACC_NORM_451,Advik Konda,Account,Personal_Savings,1556,1,0,NORMAL
+ACC_NORM_452,Urmi Patla,Account,Personal_Savings,562,1,0,NORMAL
+ACC_NORM_453,Mason Gola,Account,Personal_Savings,2308,1,0,NORMAL
+ACC_NORM_454,Oni Kapur,Account,Personal_Savings,275,1,0,NORMAL
+ACC_NORM_455,Yuvraj Saha,Account,Personal_Savings,2432,1,0,NORMAL
+ACC_NORM_456,Anika Brahmbhatt,Account,Personal_Savings,2330,1,0,NORMAL
+ACC_NORM_457,Jagdish Thakkar,Account,Personal_Savings,2330,1,0,NORMAL
+ACC_NORM_458,Praneel Kapoor,Account,Personal_Savings,1380,1,0,NORMAL
+ACC_NORM_459,Nandini Biswas,Account,Personal_Savings,530,1,0,NORMAL
+ACC_NORM_460,Barkha Mukhopadhyay,Account,Personal_Savings,1712,1,0,NORMAL
+ACC_NORM_461,Gabriel Shan,Account,Personal_Savings,1478,1,0,NORMAL
+ACC_NORM_462,Jyoti Iyer,Account,Personal_Savings,1762,1,0,NORMAL
+ACC_NORM_463,Daksha Kibe,Account,Personal_Savings,240,1,0,NORMAL
+ACC_NORM_464,Jyoti Tak,Account,Personal_Savings,1208,1,0,NORMAL
+ACC_NORM_465,Yatan Dora,Account,Personal_Savings,2489,1,0,NORMAL
+ACC_NORM_466,Nimrat Bajwa,Account,Personal_Savings,1309,1,0,NORMAL
+ACC_NORM_467,Hiral Andra,Account,Personal_Savings,1470,1,0,NORMAL
+ACC_NORM_468,Aarav Puri,Account,Personal_Savings,454,1,0,NORMAL
+ACC_NORM_469,Hemang Jha,Account,Personal_Savings,2397,1,0,NORMAL
+ACC_NORM_470,Oni Swamy,Account,Personal_Savings,2108,1,0,NORMAL
+ACC_NORM_471,Lucky Mammen,Account,Personal_Savings,901,1,0,NORMAL
+ACC_NORM_472,Caleb Kata,Account,Personal_Savings,663,1,0,NORMAL
+ACC_NORM_473,Kashish Shanker,Account,Personal_Savings,2005,1,0,NORMAL
+ACC_NORM_474,Girish Tiwari,Account,Personal_Savings,948,1,0,NORMAL
+ACC_NORM_475,Meera Borde,Account,Personal_Savings,473,1,0,NORMAL
+ACC_NORM_476,Radhika De,Account,Personal_Savings,1464,1,0,NORMAL
+ACC_NORM_477,Bishakha Lal,Account,Personal_Savings,2308,1,0,NORMAL
+ACC_NORM_478,Maya Narain,Account,Personal_Savings,1535,1,0,NORMAL
+ACC_NORM_479,Sneha Magar,Account,Personal_Savings,500,1,0,NORMAL
+ACC_NORM_480,Falan Jain,Account,Personal_Savings,1171,1,0,NORMAL
+ACC_NORM_481,Ikbal Dugal,Account,Personal_Savings,2381,1,0,NORMAL
+ACC_NORM_482,Nitesh Sengupta,Account,Personal_Savings,956,1,0,NORMAL
+ACC_NORM_483,Dipta Ray,Account,Personal_Savings,1787,1,0,NORMAL
+ACC_NORM_484,Ishita Johal,Account,Personal_Savings,2327,1,0,NORMAL
+ACC_NORM_485,Darika Sheth,Account,Personal_Savings,2310,1,0,NORMAL
+ACC_NORM_486,Jagdish Chana,Account,Personal_Savings,137,1,0,NORMAL
+ACC_NORM_487,Daksha Baria,Account,Personal_Savings,1125,1,0,NORMAL
+ACC_NORM_488,Falak Divan,Account,Personal_Savings,148,1,0,NORMAL
+ACC_NORM_489,Yuvraj Parekh,Account,Personal_Savings,768,1,0,NORMAL
+ACC_NORM_490,Yochana Bawa,Account,Personal_Savings,1149,1,0,NORMAL
+ACC_NORM_491,Abha Ghosh,Account,Personal_Savings,1295,1,0,NORMAL
+ACC_NORM_492,Nidhi Sethi,Account,Personal_Savings,1421,1,0,NORMAL
+ACC_NORM_493,Girindra Shere,Account,Personal_Savings,1467,1,0,NORMAL
+ACC_NORM_494,Logan Dara,Account,Personal_Savings,55,1,0,NORMAL
+ACC_NORM_495,David Kapadia,Account,Personal_Savings,773,1,0,NORMAL
+ACC_NORM_496,Rudra Rattan,Account,Personal_Savings,616,1,0,NORMAL
+ACC_NORM_497,Frado Lad,Account,Personal_Savings,2349,1,0,NORMAL
+ACC_NORM_498,Anthony Bhattacharyya,Account,Personal_Savings,1671,1,0,NORMAL
+ACC_NORM_499,Sachi Dave,Account,Personal_Savings,315,1,0,NORMAL
+ACC_NORM_500,Garima Das,Account,Personal_Savings,611,1,0,NORMAL
+ACC_NORM_501,Triya Bedi,Account,Personal_Savings,155,1,0,NORMAL
+ACC_NORM_502,Rachita Rana,Account,Personal_Savings,405,1,0,NORMAL
+ACC_NORM_503,Ayushman Raja,Account,Personal_Savings,2202,1,0,NORMAL
+ACC_NORM_504,Orinder Pandya,Account,Personal_Savings,911,1,0,NORMAL
+ACC_NORM_505,Rachit Maharaj,Account,Personal_Savings,1570,1,0,NORMAL
+ACC_NORM_506,Sanaya Dixit,Account,Personal_Savings,1749,1,0,NORMAL
+ACC_NORM_507,Yatan Merchant,Account,Personal_Savings,1888,1,0,NORMAL
+ACC_NORM_508,Nisha Srinivas,Account,Personal_Savings,1426,1,0,NORMAL
+ACC_NORM_509,Gagan Mammen,Account,Personal_Savings,674,1,0,NORMAL
+ACC_NORM_510,Laksh Saini,Account,Personal_Savings,1545,1,0,NORMAL
+ACC_NORM_511,Zaid Bahl,Account,Personal_Savings,1306,1,0,NORMAL
+ACC_NORM_512,Jagrati Srinivasan,Account,Personal_Savings,1358,1,0,NORMAL
+ACC_NORM_513,Hemangini Thakkar,Account,Personal_Savings,2354,1,0,NORMAL
+ACC_NORM_514,Lipika Madan,Account,Personal_Savings,2472,1,0,NORMAL
+ACC_NORM_515,Atharv Nagar,Account,Personal_Savings,377,1,0,NORMAL
+ACC_NORM_516,Ayushman Mand,Account,Personal_Savings,245,1,0,NORMAL
+ACC_NORM_517,Urmi Wagle,Account,Personal_Savings,667,1,0,NORMAL
+ACC_NORM_518,Viraj Dutta,Account,Personal_Savings,674,1,0,NORMAL
+ACC_NORM_519,Yug Khosla,Account,Personal_Savings,233,1,0,NORMAL
+ACC_NORM_520,Daksh Kanda,Account,Personal_Savings,364,1,0,NORMAL
+ACC_NORM_521,Isha Ghose,Account,Personal_Savings,1144,1,0,NORMAL
+ACC_NORM_522,Warjas Nadkarni,Account,Personal_Savings,1844,1,0,NORMAL
+ACC_NORM_523,Ayaan Pandey,Account,Personal_Savings,1766,1,0,NORMAL
+ACC_NORM_524,Raghav Tailor,Account,Personal_Savings,2019,1,0,NORMAL
+ACC_NORM_525,Parth Swaminathan,Account,Personal_Savings,1840,1,0,NORMAL
+ACC_NORM_526,Gautam Bhalla,Account,Personal_Savings,1726,1,0,NORMAL
+ACC_NORM_527,Theodore Bahri,Account,Personal_Savings,1148,1,0,NORMAL
+ACC_NORM_528,Aadi Narula,Account,Personal_Savings,912,1,0,NORMAL
+ACC_NORM_529,Kalpit Oak,Account,Personal_Savings,2128,1,0,NORMAL
+ACC_NORM_530,Ekiya Bhargava,Account,Personal_Savings,496,1,0,NORMAL
+ACC_NORM_531,Manbir Dhar,Account,Personal_Savings,1443,1,0,NORMAL
+ACC_NORM_532,Janya Bora,Account,Personal_Savings,1790,1,0,NORMAL
+ACC_NORM_533,Meghana Chaudhuri,Account,Personal_Savings,484,1,0,NORMAL
+ACC_NORM_534,Chasmum Naidu,Account,Personal_Savings,1190,1,0,NORMAL
+ACC_NORM_535,Nakul Sarkar,Account,Personal_Savings,2459,1,0,NORMAL
+ACC_NORM_536,Edhitha Ghosh,Account,Personal_Savings,2023,1,0,NORMAL
+ACC_NORM_537,Udant Gill,Account,Personal_Savings,2188,1,0,NORMAL
+ACC_NORM_538,Damyanti Menon,Account,Personal_Savings,1293,1,0,NORMAL
+ACC_NORM_539,Peter Agarwal,Account,Personal_Savings,216,1,0,NORMAL
+ACC_NORM_540,Bachittar Gopal,Account,Personal_Savings,933,1,0,NORMAL
+ACC_NORM_541,Timothy Chawla,Account,Personal_Savings,1648,1,0,NORMAL
+ACC_NORM_542,Lohit Narula,Account,Personal_Savings,2484,1,0,NORMAL
+ACC_NORM_543,Wazir Palan,Account,Personal_Savings,254,1,0,NORMAL
+ACC_NORM_544,Oliver Chakrabarti,Account,Personal_Savings,61,1,0,NORMAL
+ACC_NORM_545,Sanya Apte,Account,Personal_Savings,867,1,0,NORMAL
+ACC_NORM_546,Shaurya Krish,Account,Personal_Savings,1264,1,0,NORMAL
+ACC_NORM_547,Inaya Kunda,Account,Personal_Savings,895,1,0,NORMAL
+ACC_NORM_548,Aarav Bava,Account,Personal_Savings,592,1,0,NORMAL
+ACC_NORM_549,Raksha Saini,Account,Personal_Savings,1076,1,0,NORMAL
+ACC_NORM_550,Odika Tailor,Account,Personal_Savings,1215,1,0,NORMAL
+ACC_NORM_551,Indali Prashad,Account,Personal_Savings,1373,1,0,NORMAL
+ACC_NORM_552,Varenya Kar,Account,Personal_Savings,521,1,0,NORMAL
+ACC_NORM_553,Siya Borah,Account,Personal_Savings,61,1,0,NORMAL
+ACC_NORM_554,Chaitaly Bahri,Account,Personal_Savings,2067,1,0,NORMAL
+ACC_NORM_555,Advika Cheema,Account,Personal_Savings,1793,1,0,NORMAL
+ACC_NORM_556,Hema Garde,Account,Personal_Savings,749,1,0,NORMAL
+ACC_NORM_557,Naveen Borde,Account,Personal_Savings,559,1,0,NORMAL
+ACC_NORM_558,Hamsini Subramanian,Account,Personal_Savings,1587,1,0,NORMAL
+ACC_NORM_559,Raagini Gala,Account,Personal_Savings,2211,1,0,NORMAL
+ACC_NORM_560,Naksh Bera,Account,Personal_Savings,972,1,0,NORMAL
+ACC_NORM_561,Garima Jha,Account,Personal_Savings,2079,1,0,NORMAL
+ACC_NORM_562,Nimrat Zachariah,Account,Personal_Savings,2318,1,0,NORMAL
+ACC_NORM_563,Baghyawati Mishra,Account,Personal_Savings,1480,1,0,NORMAL
+ACC_NORM_564,Gopal Bawa,Account,Personal_Savings,325,1,0,NORMAL
+ACC_NORM_565,Vritti Dube,Account,Personal_Savings,1656,1,0,NORMAL
+ACC_NORM_566,Jalsa Aggarwal,Account,Personal_Savings,203,1,0,NORMAL
+ACC_NORM_567,Gagan Menon,Account,Personal_Savings,1816,1,0,NORMAL
+ACC_NORM_568,Ryan Chatterjee,Account,Personal_Savings,106,1,0,NORMAL
+ACC_NORM_569,Samuel Garde,Account,Personal_Savings,1913,1,0,NORMAL
+ACC_NORM_570,Finn Solanki,Account,Personal_Savings,348,1,0,NORMAL
+ACC_NORM_571,Darika Rao,Account,Personal_Savings,1312,1,0,NORMAL
+ACC_NORM_572,Vrinda Lanka,Account,Personal_Savings,2388,1,0,NORMAL
+ACC_NORM_573,Lila Goyal,Account,Personal_Savings,1788,1,0,NORMAL
+ACC_NORM_574,Lakshmi Pingle,Account,Personal_Savings,2378,1,0,NORMAL
+ACC_NORM_575,Sanaya Basu,Account,Personal_Savings,1686,1,0,NORMAL
+ACC_NORM_576,Ria Shroff,Account,Personal_Savings,1740,1,0,NORMAL
+ACC_NORM_577,Upkaar Luthra,Account,Personal_Savings,1215,1,0,NORMAL
+ACC_NORM_578,Matthew Chatterjee,Account,Personal_Savings,501,1,0,NORMAL
+ACC_NORM_579,Hemangini Sachdev,Account,Personal_Savings,1689,1,0,NORMAL
+ACC_NORM_580,Darsh Ram,Account,Personal_Savings,115,1,0,NORMAL
+ACC_NORM_581,Vaishnavi Keer,Account,Personal_Savings,1360,1,0,NORMAL
+ACC_NORM_582,Chandani Brar,Account,Personal_Savings,733,1,0,NORMAL
+ACC_NORM_583,Bakhshi Thakkar,Account,Personal_Savings,1914,1,0,NORMAL
+ACC_NORM_584,Jai Sen,Account,Personal_Savings,1512,1,0,NORMAL
+ACC_NORM_585,Oliver Kakar,Account,Personal_Savings,390,1,0,NORMAL
+ACC_NORM_586,Jonathan Basak,Account,Personal_Savings,1818,1,0,NORMAL
+ACC_NORM_587,Farhan Saran,Account,Personal_Savings,463,1,0,NORMAL
+ACC_NORM_588,Manbir Kuruvilla,Account,Personal_Savings,1026,1,0,NORMAL
+ACC_NORM_589,Ekalinga Chahal,Account,Personal_Savings,1814,1,0,NORMAL
+ACC_NORM_590,Mekhala Nanda,Account,Personal_Savings,2442,1,0,NORMAL
+ACC_NORM_591,Zinal Shanker,Account,Personal_Savings,1670,1,0,NORMAL
+ACC_NORM_592,Oni Chowdhury,Account,Personal_Savings,2176,1,0,NORMAL
+ACC_NORM_593,Mason Divan,Account,Personal_Savings,352,1,0,NORMAL
+ACC_NORM_594,Hitesh Chaudhuri,Account,Personal_Savings,1651,1,0,NORMAL
+ACC_NORM_595,Hemangini Roy,Account,Personal_Savings,1300,1,0,NORMAL
+ACC_NORM_596,Leela Sunder,Account,Personal_Savings,1420,1,0,NORMAL
+ACC_NORM_597,Baljiwan Gera,Account,Personal_Savings,937,1,0,NORMAL
+ACC_NORM_598,Neha Dhawan,Account,Personal_Savings,1394,1,0,NORMAL
+ACC_NORM_599,Balvan Randhawa,Account,Personal_Savings,718,1,0,NORMAL
+ACC_NORM_600,Wazir Bawa,Account,Personal_Savings,342,1,0,NORMAL
+ACC_NORM_601,Amruta Pradhan,Account,Personal_Savings,2120,1,0,NORMAL
+ACC_NORM_602,Geetika Mitter,Account,Personal_Savings,497,1,0,NORMAL
+ACC_NORM_603,Avni Swamy,Account,Personal_Savings,2203,1,0,NORMAL
+ACC_NORM_604,Vedant Desai,Account,Personal_Savings,2118,1,0,NORMAL
+ACC_NORM_605,Saanvi Nagi,Account,Personal_Savings,824,1,0,NORMAL
+ACC_NORM_606,Omaja Chakraborty,Account,Personal_Savings,1461,1,0,NORMAL
+ACC_NORM_607,Riya Kakar,Account,Personal_Savings,1468,1,0,NORMAL
+ACC_NORM_608,Vedhika Varty,Account,Personal_Savings,634,1,0,NORMAL
+ACC_NORM_609,Daksh Varma,Account,Personal_Savings,997,1,0,NORMAL
+ACC_NORM_610,Dominic Mukhopadhyay,Account,Personal_Savings,451,1,0,NORMAL
+ACC_NORM_611,Krishna Viswanathan,Account,Personal_Savings,629,1,0,NORMAL
+ACC_NORM_612,Oscar Hans,Account,Personal_Savings,1078,1,0,NORMAL
+ACC_NORM_613,Dalbir Krish,Account,Personal_Savings,838,1,0,NORMAL
+ACC_NORM_614,Tanmayi Bedi,Account,Personal_Savings,740,1,0,NORMAL
+ACC_NORM_615,Rushil Mahal,Account,Personal_Savings,2497,1,0,NORMAL
+ACC_NORM_616,Ucchal Tiwari,Account,Personal_Savings,656,1,0,NORMAL
+ACC_NORM_617,Jatin Balasubramanian,Account,Personal_Savings,338,1,0,NORMAL
+ACC_NORM_618,Kashish Suresh,Account,Personal_Savings,755,1,0,NORMAL
+ACC_NORM_619,Peter Som,Account,Personal_Savings,2053,1,0,NORMAL
+ACC_NORM_620,Hemangini Gade,Account,Personal_Savings,1930,1,0,NORMAL
+ACC_NORM_621,Gautam Mane,Account,Personal_Savings,2339,1,0,NORMAL
+ACC_NORM_622,Libni Bawa,Account,Personal_Savings,2403,1,0,NORMAL
+ACC_NORM_623,Tanish Kant,Account,Personal_Savings,1868,1,0,NORMAL
+ACC_NORM_624,Samuel Luthra,Account,Personal_Savings,2342,1,0,NORMAL
+ACC_NORM_625,Yochana Bahri,Account,Personal_Savings,1353,1,0,NORMAL
+ACC_NORM_626,Urvi Deo,Account,Personal_Savings,1324,1,0,NORMAL
+ACC_NORM_627,Abhiram Kapur,Account,Personal_Savings,648,1,0,NORMAL
+ACC_NORM_628,Dalaja Maharaj,Account,Personal_Savings,1831,1,0,NORMAL
+ACC_NORM_629,Krisha Palla,Account,Personal_Savings,309,1,0,NORMAL
+ACC_NORM_630,Zayyan Kamdar,Account,Personal_Savings,1950,1,0,NORMAL
+ACC_NORM_631,Chasmum Verma,Account,Personal_Savings,1841,1,0,NORMAL
+ACC_NORM_632,Harsh Amble,Account,Personal_Savings,1270,1,0,NORMAL
+ACC_NORM_633,Barkha Misra,Account,Personal_Savings,1155,1,0,NORMAL
+ACC_NORM_634,Vasatika Bhatt,Account,Personal_Savings,2452,1,0,NORMAL
+ACC_NORM_635,Aradhana Nair,Account,Personal_Savings,260,1,0,NORMAL
+ACC_NORM_636,Advika Misra,Account,Personal_Savings,1471,1,0,NORMAL
+ACC_NORM_637,Mason Varughese,Account,Personal_Savings,2108,1,0,NORMAL
+ACC_NORM_638,Dakshesh Raval,Account,Personal_Savings,333,1,0,NORMAL
+ACC_NORM_639,Logan Bal,Account,Personal_Savings,1301,1,0,NORMAL
+ACC_NORM_640,Chakrika Lad,Account,Personal_Savings,1921,1,0,NORMAL
+ACC_NORM_641,Nidhi Rama,Account,Personal_Savings,1881,1,0,NORMAL
+ACC_NORM_642,Ranveer Oza,Account,Personal_Savings,184,1,0,NORMAL
+ACC_NORM_643,Vamakshi Parmer,Account,Personal_Savings,263,1,0,NORMAL
+ACC_NORM_644,Onkar Golla,Account,Personal_Savings,1540,1,0,NORMAL
+ACC_NORM_645,Gunbir Sinha,Account,Personal_Savings,1205,1,0,NORMAL
+ACC_NORM_646,Aarna Goswami,Account,Personal_Savings,344,1,0,NORMAL
+ACC_NORM_647,Gaurav Kapadia,Account,Personal_Savings,399,1,0,NORMAL
+ACC_NORM_648,Udant Mohanty,Account,Personal_Savings,2463,1,0,NORMAL
+ACC_NORM_649,Garima Prabhu,Account,Personal_Savings,2106,1,0,NORMAL
+ACC_NORM_650,Chaitaly Sheth,Account,Personal_Savings,1604,1,0,NORMAL
+ACC_NORM_651,Upma Bera,Account,Personal_Savings,1925,1,0,NORMAL
+ACC_NORM_652,Urmi Hayer,Account,Personal_Savings,2407,1,0,NORMAL
+ACC_NORM_653,Lakshmi Wagle,Account,Personal_Savings,2300,1,0,NORMAL
+ACC_NORM_654,Odika Bhagat,Account,Personal_Savings,198,1,0,NORMAL
+ACC_NORM_655,Laksh Iyer,Account,Personal_Savings,1872,1,0,NORMAL
+ACC_NORM_656,Nimrat Shankar,Account,Personal_Savings,2371,1,0,NORMAL
+ACC_NORM_657,Diya Gole,Account,Personal_Savings,801,1,0,NORMAL
+ACC_NORM_658,Vinaya Natarajan,Account,Personal_Savings,1346,1,0,NORMAL
+ACC_NORM_659,Dhriti Bhardwaj,Account,Personal_Savings,1978,1,0,NORMAL
+ACC_NORM_660,Siya Mahal,Account,Personal_Savings,2083,1,0,NORMAL
+ACC_NORM_661,Om Dutt,Account,Personal_Savings,647,1,0,NORMAL
+ACC_NORM_662,Gaurang Dayal,Account,Personal_Savings,283,1,0,NORMAL
+ACC_NORM_663,Pushti Raval,Account,Personal_Savings,1875,1,0,NORMAL
+ACC_NORM_664,Vansha Rajagopal,Account,Personal_Savings,453,1,0,NORMAL
+ACC_NORM_665,Baljiwan Walla,Account,Personal_Savings,1436,1,0,NORMAL
+ACC_NORM_666,Kashvi Atwal,Account,Personal_Savings,375,1,0,NORMAL
+ACC_NORM_667,Rayaan Badami,Account,Personal_Savings,2096,1,0,NORMAL
+ACC_NORM_668,Yuvraj Kara,Account,Personal_Savings,736,1,0,NORMAL
+ACC_NORM_669,Devika Dayal,Account,Personal_Savings,190,1,0,NORMAL
+ACC_NORM_670,Leela Thakur,Account,Personal_Savings,1044,1,0,NORMAL
+ACC_NORM_671,Oliver Bhattacharyya,Account,Personal_Savings,1823,1,0,NORMAL
+ACC_NORM_672,Chanchal Mannan,Account,Personal_Savings,1829,1,0,NORMAL
+ACC_NORM_673,Zinal Viswanathan,Account,Personal_Savings,2176,1,0,NORMAL
+ACC_NORM_674,Radha Desai,Account,Personal_Savings,2171,1,0,NORMAL
+ACC_NORM_675,Vrishti Parmer,Account,Personal_Savings,680,1,0,NORMAL
+ACC_NORM_676,Nitesh Raval,Account,Personal_Savings,1520,1,0,NORMAL
+ACC_NORM_677,Vedant Kapur,Account,Personal_Savings,1557,1,0,NORMAL
+ACC_NORM_678,Siddharth Bains,Account,Personal_Savings,1188,1,0,NORMAL
+ACC_NORM_679,Jatin Peri,Account,Personal_Savings,1616,1,0,NORMAL
+ACC_NORM_680,Keya Kumer,Account,Personal_Savings,1704,1,0,NORMAL
+ACC_NORM_681,Chanakya Chokshi,Account,Personal_Savings,1415,1,0,NORMAL
+ACC_NORM_682,Chanakya D’Alia,Account,Personal_Savings,2478,1,0,NORMAL
+ACC_NORM_683,Sachi Rai,Account,Personal_Savings,244,1,0,NORMAL
+ACC_NORM_684,Zayyan Som,Account,Personal_Savings,1400,1,0,NORMAL
+ACC_NORM_685,Samesh Andra,Account,Personal_Savings,299,1,0,NORMAL
+ACC_NORM_686,Osha Chaudhuri,Account,Personal_Savings,1380,1,0,NORMAL
+ACC_NORM_687,Laksh Sahota,Account,Personal_Savings,417,1,0,NORMAL
+ACC_NORM_688,Yasti Dalal,Account,Personal_Savings,2315,1,0,NORMAL
+ACC_NORM_689,Ishaan Cherian,Account,Personal_Savings,1613,1,0,NORMAL
+ACC_NORM_690,Rushil Iyengar,Account,Personal_Savings,1193,1,0,NORMAL
+ACC_NORM_691,Saksham Parmar,Account,Personal_Savings,1062,1,0,NORMAL
+ACC_NORM_692,Chakrika Dyal,Account,Personal_Savings,2498,1,0,NORMAL
+ACC_NORM_693,Watika Johal,Account,Personal_Savings,645,1,0,NORMAL
+ACC_NORM_694,Ganga Keer,Account,Personal_Savings,1395,1,0,NORMAL
+ACC_NORM_695,Agastya Chakraborty,Account,Personal_Savings,363,1,0,NORMAL
+ACC_NORM_696,Wakeeta Dixit,Account,Personal_Savings,2416,1,0,NORMAL
+ACC_NORM_697,Yasti Borde,Account,Personal_Savings,609,1,0,NORMAL
+ACC_NORM_698,Aahana Kashyap,Account,Personal_Savings,1462,1,0,NORMAL
+ACC_NORM_699,Chaman Lalla,Account,Personal_Savings,1300,1,0,NORMAL
+ACC_NORM_700,Chandresh Chaudhry,Account,Personal_Savings,1635,1,0,NORMAL
+ACC_NORM_701,Balveer Mannan,Account,Personal_Savings,558,1,0,NORMAL
+ACC_NORM_702,Dhriti Sandhu,Account,Personal_Savings,2467,1,0,NORMAL
+ACC_NORM_703,Girish Bath,Account,Personal_Savings,377,1,0,NORMAL
+ACC_NORM_704,Lakshit Garde,Account,Personal_Savings,1298,1,0,NORMAL
+ACC_NORM_705,Ishita Sarma,Account,Personal_Savings,2319,1,0,NORMAL
+ACC_NORM_706,Girik Pradhan,Account,Personal_Savings,1572,1,0,NORMAL
+ACC_NORM_707,Qadim Comar,Account,Personal_Savings,1375,1,0,NORMAL
+ACC_NORM_708,Mugdha Shan,Account,Personal_Savings,553,1,0,NORMAL
+ACC_NORM_709,Lekha Sridhar,Account,Personal_Savings,2186,1,0,NORMAL
+ACC_NORM_710,Ojas Chowdhury,Account,Personal_Savings,412,1,0,NORMAL
+ACC_NORM_711,Daniel Dutta,Account,Personal_Savings,1764,1,0,NORMAL
+ACC_NORM_712,Omaja Subramanian,Account,Personal_Savings,2112,1,0,NORMAL
+ACC_NORM_713,Pratyush Raghavan,Account,Personal_Savings,1512,1,0,NORMAL
+ACC_NORM_714,Ayush De,Account,Personal_Savings,104,1,0,NORMAL
+ACC_NORM_715,Vinaya Chowdhury,Account,Personal_Savings,1515,1,0,NORMAL
+ACC_NORM_716,Ridhi Batra,Account,Personal_Savings,1295,1,0,NORMAL
+ACC_NORM_717,Advika Murthy,Account,Personal_Savings,768,1,0,NORMAL
+ACC_NORM_718,Udarsh Nigam,Account,Personal_Savings,907,1,0,NORMAL
+ACC_NORM_719,Rachita Kothari,Account,Personal_Savings,1429,1,0,NORMAL
+ACC_NORM_720,Hiral Rajan,Account,Personal_Savings,2021,1,0,NORMAL
+ACC_NORM_721,Chatura Apte,Account,Personal_Savings,816,1,0,NORMAL
+ACC_NORM_722,Yashasvi Singh,Account,Personal_Savings,957,1,0,NORMAL
+ACC_NORM_723,Noah Borde,Account,Personal_Savings,593,1,0,NORMAL
+ACC_NORM_724,Ekani Khosla,Account,Personal_Savings,664,1,0,NORMAL
+ACC_NORM_725,Arunima Bedi,Account,Personal_Savings,346,1,0,NORMAL
+ACC_NORM_726,Kritika Rau,Account,Personal_Savings,1241,1,0,NORMAL
+ACC_NORM_727,Farhan Sharaf,Account,Personal_Savings,444,1,0,NORMAL
+ACC_NORM_728,Sara Chakrabarti,Account,Personal_Savings,2109,1,0,NORMAL
+ACC_NORM_729,Sanya Mutti,Account,Personal_Savings,2240,1,0,NORMAL
+ACC_NORM_730,Widisha Badami,Account,Personal_Savings,2186,1,0,NORMAL
+ACC_NORM_731,Netra Sachar,Account,Personal_Savings,184,1,0,NORMAL
+ACC_NORM_732,Aadi Chand,Account,Personal_Savings,1409,1,0,NORMAL
+ACC_NORM_733,Yashoda Jhaveri,Account,Personal_Savings,566,1,0,NORMAL
+ACC_NORM_734,Harita Patla,Account,Personal_Savings,2476,1,0,NORMAL
+ACC_NORM_735,Udant Sha,Account,Personal_Savings,1573,1,0,NORMAL
+ACC_NORM_736,Urvashi Patla,Account,Personal_Savings,661,1,0,NORMAL
+ACC_NORM_737,Ishaan Chatterjee,Account,Personal_Savings,694,1,0,NORMAL
+ACC_NORM_738,Aarnav Om,Account,Personal_Savings,770,1,0,NORMAL
+ACC_NORM_739,Bishakha Vig,Account,Personal_Savings,708,1,0,NORMAL
+ACC_NORM_740,Hitesh Bath,Account,Personal_Savings,1822,1,0,NORMAL
+ACC_NORM_741,Waida Dey,Account,Personal_Savings,208,1,0,NORMAL
+ACC_NORM_742,Hredhaan Kumar,Account,Personal_Savings,1712,1,0,NORMAL
+ACC_NORM_743,Raghav Dara,Account,Personal_Savings,1522,1,0,NORMAL
+ACC_NORM_744,Tanveer Shankar,Account,Personal_Savings,1002,1,0,NORMAL
+ACC_NORM_745,Hamsini Chokshi,Account,Personal_Savings,1849,1,0,NORMAL
+ACC_NORM_746,Chakradhar Dasgupta,Account,Personal_Savings,1197,1,0,NORMAL
+ACC_NORM_747,Tanvi Thaman,Account,Personal_Savings,1868,1,0,NORMAL
+ACC_NORM_748,Wishi Agrawal,Account,Personal_Savings,988,1,0,NORMAL
+ACC_NORM_749,Rachita Subramanian,Account,Personal_Savings,2217,1,0,NORMAL
+ACC_NORM_750,Oscar Dave,Account,Personal_Savings,1009,1,0,NORMAL
+ACC_NORM_751,Lila Nagy,Account,Personal_Savings,1297,1,0,NORMAL
+ACC_NORM_752,Omya Kothari,Account,Personal_Savings,1951,1,0,NORMAL
+ACC_NORM_753,Mitali Oza,Account,Personal_Savings,824,1,0,NORMAL
+ACC_NORM_754,Sneha Deol,Account,Personal_Savings,1536,1,0,NORMAL
+ACC_NORM_755,Nitara Vala,Account,Personal_Savings,2366,1,0,NORMAL
+ACC_NORM_756,Dipta Kalla,Account,Personal_Savings,1834,1,0,NORMAL
+ACC_NORM_757,Shaurya Mannan,Account,Personal_Savings,1921,1,0,NORMAL
+ACC_NORM_758,Kevin Gokhale,Account,Personal_Savings,1184,1,0,NORMAL
+ACC_NORM_759,Jack Pandey,Account,Personal_Savings,1594,1,0,NORMAL
+ACC_NORM_760,Omisha Walla,Account,Personal_Savings,2089,1,0,NORMAL
+ACC_NORM_761,Pahal Arya,Account,Personal_Savings,2190,1,0,NORMAL
+ACC_NORM_762,Aryan Raj,Account,Personal_Savings,1744,1,0,NORMAL
+ACC_NORM_763,Chatresh Bhalla,Account,Personal_Savings,693,1,0,NORMAL
+ACC_NORM_764,Amara Dyal,Account,Personal_Savings,847,1,0,NORMAL
+ACC_NORM_765,Zashil Dhingra,Account,Personal_Savings,596,1,0,NORMAL
+ACC_NORM_766,Chakrika Jani,Account,Personal_Savings,1054,1,0,NORMAL
+ACC_NORM_767,Jagrati Sethi,Account,Personal_Savings,243,1,0,NORMAL
+ACC_NORM_768,Udarsh Ramachandran,Account,Personal_Savings,1998,1,0,NORMAL
+ACC_NORM_769,Yasti Mani,Account,Personal_Savings,1550,1,0,NORMAL
+ACC_NORM_770,Lakshmi Ram,Account,Personal_Savings,2301,1,0,NORMAL
+ACC_NORM_771,Dhriti Bhagat,Account,Personal_Savings,450,1,0,NORMAL
+ACC_NORM_772,Zayan Jain,Account,Personal_Savings,2143,1,0,NORMAL
+ACC_NORM_773,Umang Pillai,Account,Personal_Savings,540,1,0,NORMAL
+ACC_NORM_774,Rishi Menon,Account,Personal_Savings,1197,1,0,NORMAL
+ACC_NORM_775,Peter Borde,Account,Personal_Savings,373,1,0,NORMAL
+ACC_NORM_776,Oscar Varkey,Account,Personal_Savings,686,1,0,NORMAL
+ACC_NORM_777,Krishna Baria,Account,Personal_Savings,1147,1,0,NORMAL
+ACC_NORM_778,Arya Lalla,Account,Personal_Savings,1870,1,0,NORMAL
+ACC_NORM_779,Naveen Kumer,Account,Personal_Savings,2132,1,0,NORMAL
+ACC_NORM_780,Ganga Shukla,Account,Personal_Savings,633,1,0,NORMAL
+ACC_NORM_781,Balveer Dube,Account,Personal_Savings,1821,1,0,NORMAL
+ACC_NORM_782,Charan Mitra,Account,Personal_Savings,405,1,0,NORMAL
+ACC_NORM_783,Ishita Bora,Account,Personal_Savings,939,1,0,NORMAL
+ACC_NORM_784,Thomas Gour,Account,Personal_Savings,1877,1,0,NORMAL
+ACC_NORM_785,Yashasvi Dutta,Account,Personal_Savings,1461,1,0,NORMAL
+ACC_NORM_786,Netra Chanda,Account,Personal_Savings,139,1,0,NORMAL
+ACC_NORM_787,Timothy Kala,Account,Personal_Savings,1729,1,0,NORMAL
+ACC_NORM_788,Garima Patel,Account,Personal_Savings,248,1,0,NORMAL
+ACC_NORM_789,Tejas Wali,Account,Personal_Savings,1653,1,0,NORMAL
+ACC_NORM_790,Aditya Contractor,Account,Personal_Savings,2086,1,0,NORMAL
+ACC_NORM_791,Sanaya Khosla,Account,Personal_Savings,1561,1,0,NORMAL
+ACC_NORM_792,Balveer Nagi,Account,Personal_Savings,995,1,0,NORMAL
+ACC_NORM_793,Ishaan Raju,Account,Personal_Savings,1611,1,0,NORMAL
+ACC_NORM_794,Barkha Bakshi,Account,Personal_Savings,364,1,0,NORMAL
+ACC_NORM_795,Yoshita Trivedi,Account,Personal_Savings,1565,1,0,NORMAL
+ACC_NORM_796,Vidhi Bassi,Account,Personal_Savings,949,1,0,NORMAL
+ACC_NORM_797,Reyansh Nagi,Account,Personal_Savings,145,1,0,NORMAL
+ACC_NORM_798,Gopal Ganesh,Account,Personal_Savings,1335,1,0,NORMAL
+ACC_NORM_799,Dominic Kade,Account,Personal_Savings,435,1,0,NORMAL
+MERCH_NORM_0,"Kala, Samra and Chawla",Merchant,Verified_Utility_Merchant,1738,1,0,NORMAL
+MERCH_NORM_1,Yogi Ltd,Merchant,Verified_Utility_Merchant,963,1,0,NORMAL
+MERCH_NORM_2,"Saran, Bora and Dube",Merchant,Verified_Utility_Merchant,928,1,0,NORMAL
+MERCH_NORM_3,Sharaf Ltd,Merchant,Verified_Utility_Merchant,521,1,0,NORMAL
+MERCH_NORM_4,Barad-Chahal,Merchant,Verified_Utility_Merchant,1540,1,0,NORMAL
+MERCH_NORM_5,Bhagat and Sons,Merchant,Verified_Utility_Merchant,2300,1,0,NORMAL
+MERCH_NORM_6,Bobal-Kari,Merchant,Verified_Utility_Merchant,933,1,0,NORMAL
+MERCH_NORM_7,Reddy-Rama,Merchant,Verified_Utility_Merchant,2286,1,0,NORMAL
+MERCH_NORM_8,Ravel-Sant,Merchant,Verified_Utility_Merchant,2202,1,0,NORMAL
+MERCH_NORM_9,Badal-Ramachandran,Merchant,Verified_Utility_Merchant,2885,1,0,NORMAL
+MERCH_NORM_10,"Dani, Warrior and Ahuja",Merchant,Verified_Utility_Merchant,386,1,0,NORMAL
+MERCH_NORM_11,"Bhatnagar, Bath and Bora",Merchant,Verified_Utility_Merchant,689,1,0,NORMAL
+MERCH_NORM_12,Thakkar-Cherian,Merchant,Verified_Utility_Merchant,442,1,0,NORMAL
+MERCH_NORM_13,Mitra-Chadha,Merchant,Verified_Utility_Merchant,1413,1,0,NORMAL
+MERCH_NORM_14,Sarma-Raj,Merchant,Verified_Utility_Merchant,1248,1,0,NORMAL
+MERCH_NORM_15,Balasubramanian-Som,Merchant,Verified_Utility_Merchant,977,1,0,NORMAL
+MERCH_NORM_16,Walla and Sons,Merchant,Verified_Utility_Merchant,2612,1,0,NORMAL
+MERCH_NORM_17,Raman PLC,Merchant,Verified_Utility_Merchant,2858,1,0,NORMAL
+MERCH_NORM_18,Dhawan-Misra,Merchant,Verified_Utility_Merchant,2526,1,0,NORMAL
+MERCH_NORM_19,"Prakash, Apte and Dhaliwal",Merchant,Verified_Utility_Merchant,2098,1,0,NORMAL
+MERCH_NORM_20,Barman Inc,Merchant,Verified_Utility_Merchant,820,1,0,NORMAL
+MERCH_NORM_21,"Ramesh, Yogi and Chada",Merchant,Verified_Utility_Merchant,1545,1,0,NORMAL
+MERCH_NORM_22,Kade-Padmanabhan,Merchant,Verified_Utility_Merchant,1338,1,0,NORMAL
+MERCH_NORM_23,Sachar Ltd,Merchant,Verified_Utility_Merchant,1598,1,0,NORMAL
+MERCH_NORM_24,"Dhar, Dyal and Gour",Merchant,Verified_Utility_Merchant,864,1,0,NORMAL
+MERCH_NORM_25,Krishnan and Sons,Merchant,Verified_Utility_Merchant,560,1,0,NORMAL
+MERCH_NORM_26,Golla Ltd,Merchant,Verified_Utility_Merchant,1341,1,0,NORMAL
+MERCH_NORM_27,"Bhagat, Shenoy and Bora",Merchant,Verified_Utility_Merchant,2084,1,0,NORMAL
+MERCH_NORM_28,Bhavsar-Krishna,Merchant,Verified_Utility_Merchant,2982,1,0,NORMAL
+MERCH_NORM_29,Hora Ltd,Merchant,Verified_Utility_Merchant,2916,1,0,NORMAL
+MERCH_NORM_30,"Sur, Narayanan and Parikh",Merchant,Verified_Utility_Merchant,2237,1,0,NORMAL
+MERCH_NORM_31,Keer Inc,Merchant,Verified_Utility_Merchant,622,1,0,NORMAL
+MERCH_NORM_32,Boase-Hari,Merchant,Verified_Utility_Merchant,819,1,0,NORMAL
+MERCH_NORM_33,Sunder-Seshadri,Merchant,Verified_Utility_Merchant,2412,1,0,NORMAL
+MERCH_NORM_34,Mohan-Dua,Merchant,Verified_Utility_Merchant,2809,1,0,NORMAL
+MERCH_NORM_35,"Patla, Mutti and Sangha",Merchant,Verified_Utility_Merchant,2560,1,0,NORMAL
+MERCH_NORM_36,Agrawal LLC,Merchant,Verified_Utility_Merchant,432,1,0,NORMAL
+MERCH_NORM_37,Kant Ltd,Merchant,Verified_Utility_Merchant,2953,1,0,NORMAL
+MERCH_NORM_38,"Sarin, Malhotra and Parsa",Merchant,Verified_Utility_Merchant,2475,1,0,NORMAL
+MERCH_NORM_39,Narula Group,Merchant,Verified_Utility_Merchant,2720,1,0,NORMAL
+DEV_NORM_0,Device-ee:b9:f3:52:84:68,Device,,0,0,0,NORMAL
+DEV_NORM_1,Device-22:00:c6:18:f4:bc,Device,,0,0,0,NORMAL
+DEV_NORM_2,Device-79:4e:2c:b0:75:4e,Device,,0,0,0,NORMAL
+DEV_NORM_3,Device-55:4f:b1:7f:72:8b,Device,,0,0,0,NORMAL
+DEV_NORM_4,Device-71:6b:cf:e1:1a:38,Device,,0,0,0,NORMAL
+DEV_NORM_5,Device-85:cc:b2:8c:7c:bb,Device,,0,0,0,NORMAL
+DEV_NORM_6,Device-ff:04:e5:72:86:45,Device,,0,0,0,NORMAL
+DEV_NORM_7,Device-5b:37:da:3f:ff:65,Device,,0,0,0,NORMAL
+DEV_NORM_8,Device-d0:71:45:41:41:58,Device,,0,0,0,NORMAL
+DEV_NORM_9,Device-5c:09:26:ef:f5:7d,Device,,0,0,0,NORMAL
+DEV_NORM_10,Device-45:85:ae:27:cc:43,Device,,0,0,0,NORMAL
+DEV_NORM_11,Device-06:d4:35:f1:32:f4,Device,,0,0,0,NORMAL
+DEV_NORM_12,Device-0d:db:1d:7f:cb:3d,Device,,0,0,0,NORMAL
+DEV_NORM_13,Device-48:f7:29:d8:60:03,Device,,0,0,0,NORMAL
+DEV_NORM_14,Device-0c:6a:db:34:d8:8d,Device,,0,0,0,NORMAL
+DEV_NORM_15,Device-b8:c6:df:5b:f8:9b,Device,,0,0,0,NORMAL
+DEV_NORM_16,Device-c4:37:e5:36:ca:15,Device,,0,0,0,NORMAL
+DEV_NORM_17,Device-c0:24:fd:22:87:b2,Device,,0,0,0,NORMAL
+DEV_NORM_18,Device-1c:c9:15:fe:06:96,Device,,0,0,0,NORMAL
+DEV_NORM_19,Device-17:51:b7:05:28:cb,Device,,0,0,0,NORMAL
+DEV_NORM_20,Device-cc:60:22:9b:b8:76,Device,,0,0,0,NORMAL
+DEV_NORM_21,Device-ec:08:5d:32:9a:38,Device,,0,0,0,NORMAL
+DEV_NORM_22,Device-8e:cf:7a:ee:0f:38,Device,,0,0,0,NORMAL
+DEV_NORM_23,Device-2c:77:ad:b0:87:92,Device,,0,0,0,NORMAL
+DEV_NORM_24,Device-ca:25:fa:b6:85:6f,Device,,0,0,0,NORMAL
+DEV_NORM_25,Device-67:78:67:67:b4:33,Device,,0,0,0,NORMAL
+DEV_NORM_26,Device-2f:01:fb:af:8f:58,Device,,0,0,0,NORMAL
+DEV_NORM_27,Device-c7:41:df:1b:c5:e3,Device,,0,0,0,NORMAL
+DEV_NORM_28,Device-ea:00:6c:3a:b8:58,Device,,0,0,0,NORMAL
+DEV_NORM_29,Device-78:fa:b5:fd:6d:bb,Device,,0,0,0,NORMAL
+DEV_NORM_30,Device-c8:e5:47:38:7d:c6,Device,,0,0,0,NORMAL
+DEV_NORM_31,Device-44:f0:5d:f4:af:98,Device,,0,0,0,NORMAL
+DEV_NORM_32,Device-1c:35:16:8f:3e:a8,Device,,0,0,0,NORMAL
+DEV_NORM_33,Device-bb:8b:0d:3b:65:9b,Device,,0,0,0,NORMAL
+DEV_NORM_34,Device-af:e2:c9:e4:5a:dc,Device,,0,0,0,NORMAL
+DEV_NORM_35,Device-22:5a:7a:a9:8c:8e,Device,,0,0,0,NORMAL
+DEV_NORM_36,Device-be:d5:50:47:82:65,Device,,0,0,0,NORMAL
+DEV_NORM_37,Device-c3:32:f1:0c:23:84,Device,,0,0,0,NORMAL
+DEV_NORM_38,Device-2c:97:79:e4:45:01,Device,,0,0,0,NORMAL
+DEV_NORM_39,Device-ba:fe:8e:45:ed:9b,Device,,0,0,0,NORMAL
+DEV_NORM_40,Device-f7:2e:9b:d8:49:00,Device,,0,0,0,NORMAL
+DEV_NORM_41,Device-4b:9f:0f:f9:0d:97,Device,,0,0,0,NORMAL
+DEV_NORM_42,Device-0b:6d:dc:75:cc:78,Device,,0,0,0,NORMAL
+DEV_NORM_43,Device-2d:78:98:d6:25:49,Device,,0,0,0,NORMAL
+DEV_NORM_44,Device-3e:e8:f6:a0:41:05,Device,,0,0,0,NORMAL
+DEV_NORM_45,Device-39:84:e0:72:40:f6,Device,,0,0,0,NORMAL
+DEV_NORM_46,Device-ad:9f:be:1a:24:18,Device,,0,0,0,NORMAL
+DEV_NORM_47,Device-c2:f5:68:c0:37:ce,Device,,0,0,0,NORMAL
+DEV_NORM_48,Device-71:6e:36:fc:9a:51,Device,,0,0,0,NORMAL
+DEV_NORM_49,Device-38:f9:6b:16:37:da,Device,,0,0,0,NORMAL
+DEV_NORM_50,Device-05:83:c7:01:f4:b2,Device,,0,0,0,NORMAL
+DEV_NORM_51,Device-75:f2:a1:1b:43:4f,Device,,0,0,0,NORMAL
+DEV_NORM_52,Device-7a:be:60:cb:48:1f,Device,,0,0,0,NORMAL
+DEV_NORM_53,Device-e9:f6:5b:ae:85:24,Device,,0,0,0,NORMAL
+DEV_NORM_54,Device-e9:8b:e0:c5:0b:7a,Device,,0,0,0,NORMAL
+DEV_NORM_55,Device-2c:6f:49:ad:a3:32,Device,,0,0,0,NORMAL
+DEV_NORM_56,Device-14:51:63:f6:31:cf,Device,,0,0,0,NORMAL
+DEV_NORM_57,Device-81:b7:20:6f:2e:1b,Device,,0,0,0,NORMAL
+DEV_NORM_58,Device-db:18:12:92:63:37,Device,,0,0,0,NORMAL
+DEV_NORM_59,Device-c6:67:5d:3b:ed:35,Device,,0,0,0,NORMAL
+DEV_NORM_60,Device-5c:a5:eb:aa:bd:da,Device,,0,0,0,NORMAL
+DEV_NORM_61,Device-76:c8:be:ec:01:90,Device,,0,0,0,NORMAL
+DEV_NORM_62,Device-49:09:76:a0:84:31,Device,,0,0,0,NORMAL
+DEV_NORM_63,Device-eb:44:8b:77:89:2c,Device,,0,0,0,NORMAL
+DEV_NORM_64,Device-62:af:5f:39:1c:21,Device,,0,0,0,NORMAL
+DEV_NORM_65,Device-ab:dd:37:0c:19:1a,Device,,0,0,0,NORMAL
+DEV_NORM_66,Device-4a:74:1c:e2:7d:9c,Device,,0,0,0,NORMAL
+DEV_NORM_67,Device-44:a2:f1:c8:2c:d4,Device,,0,0,0,NORMAL
+DEV_NORM_68,Device-4f:6f:c6:77:28:da,Device,,0,0,0,NORMAL
+DEV_NORM_69,Device-23:dd:bb:6a:b0:95,Device,,0,0,0,NORMAL
+DEV_NORM_70,Device-be:4e:17:6b:42:31,Device,,0,0,0,NORMAL
+DEV_NORM_71,Device-74:90:a3:9e:f0:a6,Device,,0,0,0,NORMAL
+DEV_NORM_72,Device-66:8f:40:c1:85:19,Device,,0,0,0,NORMAL
+DEV_NORM_73,Device-68:1e:02:c8:b3:09,Device,,0,0,0,NORMAL
+DEV_NORM_74,Device-c7:c3:af:25:6e:01,Device,,0,0,0,NORMAL
+DEV_NORM_75,Device-79:af:c5:0b:bb:97,Device,,0,0,0,NORMAL
+DEV_NORM_76,Device-81:8c:08:74:ac:42,Device,,0,0,0,NORMAL
+DEV_NORM_77,Device-c7:d7:4d:9a:e4:64,Device,,0,0,0,NORMAL
+DEV_NORM_78,Device-64:94:d4:5a:23:5a,Device,,0,0,0,NORMAL
+DEV_NORM_79,Device-40:ad:d9:e8:46:34,Device,,0,0,0,NORMAL
+DEV_NORM_80,Device-50:87:77:0b:2f:4f,Device,,0,0,0,NORMAL
+DEV_NORM_81,Device-b5:cf:f4:56:71:d0,Device,,0,0,0,NORMAL
+DEV_NORM_82,Device-8d:76:62:5e:fa:e7,Device,,0,0,0,NORMAL
+DEV_NORM_83,Device-dc:1c:ac:13:ee:17,Device,,0,0,0,NORMAL
+DEV_NORM_84,Device-c1:c1:69:ec:99:e5,Device,,0,0,0,NORMAL
+DEV_NORM_85,Device-d9:14:ee:23:54:cd,Device,,0,0,0,NORMAL
+DEV_NORM_86,Device-ae:05:e6:e2:8a:53,Device,,0,0,0,NORMAL
+DEV_NORM_87,Device-23:eb:2c:5c:c1:5a,Device,,0,0,0,NORMAL
+DEV_NORM_88,Device-45:45:1d:99:e9:53,Device,,0,0,0,NORMAL
+DEV_NORM_89,Device-46:08:0e:ff:0f:76,Device,,0,0,0,NORMAL
+DEV_NORM_90,Device-fe:de:20:78:61:54,Device,,0,0,0,NORMAL
+DEV_NORM_91,Device-1b:14:19:a2:13:d5,Device,,0,0,0,NORMAL
+DEV_NORM_92,Device-59:5e:b1:29:ab:c2,Device,,0,0,0,NORMAL
+DEV_NORM_93,Device-d2:9f:43:8a:d6:61,Device,,0,0,0,NORMAL
+DEV_NORM_94,Device-32:f9:da:8b:4f:ff,Device,,0,0,0,NORMAL
+DEV_NORM_95,Device-57:96:03:0e:36:dd,Device,,0,0,0,NORMAL
+DEV_NORM_96,Device-1a:b6:06:98:29:9a,Device,,0,0,0,NORMAL
+DEV_NORM_97,Device-03:aa:c0:56:aa:ff,Device,,0,0,0,NORMAL
+DEV_NORM_98,Device-14:f4:ea:ed:19:a0,Device,,0,0,0,NORMAL
+DEV_NORM_99,Device-6a:b2:48:0a:c5:c5,Device,,0,0,0,NORMAL
+DEV_NORM_100,Device-39:a1:8d:2f:7b:e9,Device,,0,0,0,NORMAL
+DEV_NORM_101,Device-69:53:b1:62:e0:f4,Device,,0,0,0,NORMAL
+DEV_NORM_102,Device-6a:f9:a4:34:61:ec,Device,,0,0,0,NORMAL
+DEV_NORM_103,Device-30:91:2a:e1:39:09,Device,,0,0,0,NORMAL
+DEV_NORM_104,Device-6a:66:98:ae:38:45,Device,,0,0,0,NORMAL
+DEV_NORM_105,Device-83:03:6b:a8:49:75,Device,,0,0,0,NORMAL
+DEV_NORM_106,Device-29:ae:14:0f:13:c1,Device,,0,0,0,NORMAL
+DEV_NORM_107,Device-2d:c5:eb:9a:62:e4,Device,,0,0,0,NORMAL
+DEV_NORM_108,Device-2e:3e:9e:f7:74:8b,Device,,0,0,0,NORMAL
+DEV_NORM_109,Device-c5:aa:ef:02:f3:bf,Device,,0,0,0,NORMAL
+DEV_NORM_110,Device-e5:9b:43:c3:a2:9e,Device,,0,0,0,NORMAL
+DEV_NORM_111,Device-cd:77:5f:c2:a6:dd,Device,,0,0,0,NORMAL
+DEV_NORM_112,Device-a7:52:f3:ea:3e:59,Device,,0,0,0,NORMAL
+DEV_NORM_113,Device-c2:3c:af:12:64:04,Device,,0,0,0,NORMAL
+DEV_NORM_114,Device-4e:9c:e6:6a:99:db,Device,,0,0,0,NORMAL
+DEV_NORM_115,Device-20:c4:91:b1:0b:39,Device,,0,0,0,NORMAL
+DEV_NORM_116,Device-07:dc:ac:cc:d6:5f,Device,,0,0,0,NORMAL
+DEV_NORM_117,Device-46:cb:d4:94:40:20,Device,,0,0,0,NORMAL
+DEV_NORM_118,Device-4f:d4:24:de:d5:ed,Device,,0,0,0,NORMAL
+DEV_NORM_119,Device-ec:b7:5d:0f:78:db,Device,,0,0,0,NORMAL
+DEV_NORM_120,Device-11:fb:3f:24:8e:22,Device,,0,0,0,NORMAL
+DEV_NORM_121,Device-7f:29:1a:0f:ef:ad,Device,,0,0,0,NORMAL
+DEV_NORM_122,Device-b9:95:19:81:f5:19,Device,,0,0,0,NORMAL
+DEV_NORM_123,Device-09:f2:42:88:48:88,Device,,0,0,0,NORMAL
+DEV_NORM_124,Device-03:54:eb:58:7f:51,Device,,0,0,0,NORMAL
+DEV_NORM_125,Device-a2:44:fd:c7:e5:6b,Device,,0,0,0,NORMAL
+DEV_NORM_126,Device-18:31:5e:cf:9f:7c,Device,,0,0,0,NORMAL
+DEV_NORM_127,Device-cf:84:d0:9e:ca:13,Device,,0,0,0,NORMAL
+DEV_NORM_128,Device-bd:8a:88:38:ce:76,Device,,0,0,0,NORMAL
+DEV_NORM_129,Device-a5:a0:02:0d:33:eb,Device,,0,0,0,NORMAL
+DEV_NORM_130,Device-79:86:10:21:63:32,Device,,0,0,0,NORMAL
+DEV_NORM_131,Device-4c:53:58:9e:2e:8d,Device,,0,0,0,NORMAL
+DEV_NORM_132,Device-a8:52:81:cc:a1:88,Device,,0,0,0,NORMAL
+DEV_NORM_133,Device-5e:2f:6c:5f:34:d6,Device,,0,0,0,NORMAL
+DEV_NORM_134,Device-3e:83:12:28:e0:f4,Device,,0,0,0,NORMAL
+DEV_NORM_135,Device-01:c8:4a:c0:ff:dc,Device,,0,0,0,NORMAL
+DEV_NORM_136,Device-27:0c:f3:ba:9c:12,Device,,0,0,0,NORMAL
+DEV_NORM_137,Device-ba:2e:96:51:c6:9c,Device,,0,0,0,NORMAL
+DEV_NORM_138,Device-3b:f2:e6:41:60:7f,Device,,0,0,0,NORMAL
+DEV_NORM_139,Device-c2:9f:e0:1a:1a:1c,Device,,0,0,0,NORMAL
+DEV_NORM_140,Device-36:e4:72:14:f0:f1,Device,,0,0,0,NORMAL
+DEV_NORM_141,Device-74:05:19:3e:52:33,Device,,0,0,0,NORMAL
+DEV_NORM_142,Device-f7:26:da:ca:34:a6,Device,,0,0,0,NORMAL
+DEV_NORM_143,Device-15:a2:38:4d:5b:5e,Device,,0,0,0,NORMAL
+DEV_NORM_144,Device-71:43:c5:0f:20:05,Device,,0,0,0,NORMAL
+DEV_NORM_145,Device-29:df:46:48:ed:75,Device,,0,0,0,NORMAL
+DEV_NORM_146,Device-15:f2:9b:d0:76:33,Device,,0,0,0,NORMAL
+DEV_NORM_147,Device-b7:e6:81:63:4f:f5,Device,,0,0,0,NORMAL
+DEV_NORM_148,Device-51:1b:96:d8:ae:13,Device,,0,0,0,NORMAL
+DEV_NORM_149,Device-15:50:f3:27:ea:d6,Device,,0,0,0,NORMAL
+DEV_NORM_150,Device-a7:3a:73:7d:6c:72,Device,,0,0,0,NORMAL
+DEV_NORM_151,Device-ff:1d:46:e5:cb:4e,Device,,0,0,0,NORMAL
+DEV_NORM_152,Device-6b:86:a4:11:84:3e,Device,,0,0,0,NORMAL
+DEV_NORM_153,Device-ed:5a:79:55:72:df,Device,,0,0,0,NORMAL
+DEV_NORM_154,Device-6f:e8:0d:77:ad:74,Device,,0,0,0,NORMAL
+DEV_NORM_155,Device-0d:11:f1:dc:f3:ef,Device,,0,0,0,NORMAL
+DEV_NORM_156,Device-72:0d:64:b9:72:0f,Device,,0,0,0,NORMAL
+DEV_NORM_157,Device-95:e0:ee:4c:5b:e0,Device,,0,0,0,NORMAL
+DEV_NORM_158,Device-2c:a1:9d:86:2a:1b,Device,,0,0,0,NORMAL
+DEV_NORM_159,Device-13:cb:e1:bb:52:64,Device,,0,0,0,NORMAL
+DEV_NORM_160,Device-a7:3f:67:ab:8d:81,Device,,0,0,0,NORMAL
+DEV_NORM_161,Device-2b:be:f3:f9:eb:26,Device,,0,0,0,NORMAL
+DEV_NORM_162,Device-e2:2c:59:23:58:34,Device,,0,0,0,NORMAL
+DEV_NORM_163,Device-f4:60:9d:4f:bd:e0,Device,,0,0,0,NORMAL
+DEV_NORM_164,Device-96:20:7a:da:af:ee,Device,,0,0,0,NORMAL
+DEV_NORM_165,Device-94:95:87:fb:91:4b,Device,,0,0,0,NORMAL
+DEV_NORM_166,Device-9e:55:95:54:57:31,Device,,0,0,0,NORMAL
+DEV_NORM_167,Device-a4:e8:b5:61:ab:4b,Device,,0,0,0,NORMAL
+DEV_NORM_168,Device-e5:93:0c:f4:ea:40,Device,,0,0,0,NORMAL
+DEV_NORM_169,Device-a9:f9:4e:a3:f1:43,Device,,0,0,0,NORMAL
+DEV_NORM_170,Device-90:c7:eb:2a:16:78,Device,,0,0,0,NORMAL
+DEV_NORM_171,Device-60:2e:2c:6f:a1:bc,Device,,0,0,0,NORMAL
+DEV_NORM_172,Device-4d:bc:b0:9b:b9:e2,Device,,0,0,0,NORMAL
+DEV_NORM_173,Device-6e:de:95:dd:42:46,Device,,0,0,0,NORMAL
+DEV_NORM_174,Device-9f:a2:c2:0d:8d:5e,Device,,0,0,0,NORMAL
+DEV_NORM_175,Device-46:5c:9f:19:9f:e7,Device,,0,0,0,NORMAL
+DEV_NORM_176,Device-00:48:9f:39:d5:f7,Device,,0,0,0,NORMAL
+DEV_NORM_177,Device-03:8f:2b:fd:8f:3b,Device,,0,0,0,NORMAL
+DEV_NORM_178,Device-08:51:4a:e4:b5:18,Device,,0,0,0,NORMAL
+DEV_NORM_179,Device-bd:b1:99:26:53:5a,Device,,0,0,0,NORMAL
+DEV_NORM_180,Device-a9:8b:3b:40:49:bf,Device,,0,0,0,NORMAL
+DEV_NORM_181,Device-da:53:64:76:3d:e2,Device,,0,0,0,NORMAL
+DEV_NORM_182,Device-34:0f:b9:b4:ea:59,Device,,0,0,0,NORMAL
+DEV_NORM_183,Device-03:74:47:94:64:2d,Device,,0,0,0,NORMAL
+DEV_NORM_184,Device-32:0f:d1:63:11:f3,Device,,0,0,0,NORMAL
+DEV_NORM_185,Device-81:29:03:36:65:b0,Device,,0,0,0,NORMAL
+DEV_NORM_186,Device-24:8b:b5:72:30:66,Device,,0,0,0,NORMAL
+DEV_NORM_187,Device-95:03:6f:b5:e3:5b,Device,,0,0,0,NORMAL
+DEV_NORM_188,Device-cd:67:d3:a3:e3:4f,Device,,0,0,0,NORMAL
+DEV_NORM_189,Device-b9:12:af:3c:9e:9e,Device,,0,0,0,NORMAL
+DEV_NORM_190,Device-7d:9d:62:fb:50:f3,Device,,0,0,0,NORMAL
+DEV_NORM_191,Device-ce:23:4c:c3:52:b6,Device,,0,0,0,NORMAL
+DEV_NORM_192,Device-a6:c3:7d:f8:8c:bf,Device,,0,0,0,NORMAL
+DEV_NORM_193,Device-cf:84:e3:38:ff:74,Device,,0,0,0,NORMAL
+DEV_NORM_194,Device-03:12:f0:5c:a4:93,Device,,0,0,0,NORMAL
+DEV_NORM_195,Device-2f:e6:9f:f8:a0:1d,Device,,0,0,0,NORMAL
+DEV_NORM_196,Device-3c:ea:ce:e1:15:95,Device,,0,0,0,NORMAL
+DEV_NORM_197,Device-fd:49:cf:3f:ff:51,Device,,0,0,0,NORMAL
+DEV_NORM_198,Device-c8:fc:b9:a1:01:4b,Device,,0,0,0,NORMAL
+DEV_NORM_199,Device-b0:ac:3d:bb:db:17,Device,,0,0,0,NORMAL
+DEV_NORM_200,Device-77:92:29:3a:50:a1,Device,,0,0,0,NORMAL
+DEV_NORM_201,Device-ed:d8:0f:0a:cc:a3,Device,,0,0,0,NORMAL
+DEV_NORM_202,Device-f3:6a:fa:59:bd:6f,Device,,0,0,0,NORMAL
+DEV_NORM_203,Device-26:98:19:c7:23:a8,Device,,0,0,0,NORMAL
+DEV_NORM_204,Device-2f:d6:b2:99:da:6d,Device,,0,0,0,NORMAL
+DEV_NORM_205,Device-c8:e5:05:f6:e8:d1,Device,,0,0,0,NORMAL
+DEV_NORM_206,Device-6b:e4:74:9d:da:26,Device,,0,0,0,NORMAL
+DEV_NORM_207,Device-d8:95:87:c7:34:60,Device,,0,0,0,NORMAL
+DEV_NORM_208,Device-79:ef:dd:16:58:40,Device,,0,0,0,NORMAL
+DEV_NORM_209,Device-88:51:f0:12:a9:2d,Device,,0,0,0,NORMAL
+DEV_NORM_210,Device-b2:c4:73:38:f2:73,Device,,0,0,0,NORMAL
+DEV_NORM_211,Device-aa:c7:d6:43:56:8e,Device,,0,0,0,NORMAL
+DEV_NORM_212,Device-d8:1f:b3:ad:f7:84,Device,,0,0,0,NORMAL
+DEV_NORM_213,Device-bf:b9:01:17:8c:9b,Device,,0,0,0,NORMAL
+DEV_NORM_214,Device-37:ec:0c:89:27:96,Device,,0,0,0,NORMAL
+DEV_NORM_215,Device-5e:ad:18:2f:fd:ad,Device,,0,0,0,NORMAL
+DEV_NORM_216,Device-35:82:bd:ae:01:5e,Device,,0,0,0,NORMAL
+DEV_NORM_217,Device-40:c6:9a:23:57:4d,Device,,0,0,0,NORMAL
+DEV_NORM_218,Device-ae:f4:85:a9:62:db,Device,,0,0,0,NORMAL
+DEV_NORM_219,Device-5c:c7:00:72:e6:85,Device,,0,0,0,NORMAL
+DEV_NORM_220,Device-1c:d8:42:b5:30:de,Device,,0,0,0,NORMAL
+DEV_NORM_221,Device-f3:76:68:9f:c4:d6,Device,,0,0,0,NORMAL
+DEV_NORM_222,Device-69:6d:5d:40:98:7e,Device,,0,0,0,NORMAL
+DEV_NORM_223,Device-7b:e2:0f:4a:c6:cd,Device,,0,0,0,NORMAL
+DEV_NORM_224,Device-82:31:1a:7f:b1:08,Device,,0,0,0,NORMAL
+DEV_NORM_225,Device-c9:cb:41:58:5f:ae,Device,,0,0,0,NORMAL
+DEV_NORM_226,Device-42:ad:48:3a:14:f8,Device,,0,0,0,NORMAL
+DEV_NORM_227,Device-bd:98:8a:d5:af:4e,Device,,0,0,0,NORMAL
+DEV_NORM_228,Device-16:41:75:1f:85:ed,Device,,0,0,0,NORMAL
+DEV_NORM_229,Device-3f:1e:bf:ef:34:3b,Device,,0,0,0,NORMAL
+DEV_NORM_230,Device-26:95:58:60:5d:27,Device,,0,0,0,NORMAL
+DEV_NORM_231,Device-f3:a0:93:cb:3a:40,Device,,0,0,0,NORMAL
+DEV_NORM_232,Device-2e:fe:80:a1:ea:46,Device,,0,0,0,NORMAL
+DEV_NORM_233,Device-19:a1:2c:2c:85:7c,Device,,0,0,0,NORMAL
+DEV_NORM_234,Device-20:65:cc:94:39:fd,Device,,0,0,0,NORMAL
+DEV_NORM_235,Device-94:b3:b6:fe:cf:8d,Device,,0,0,0,NORMAL
+DEV_NORM_236,Device-2d:b5:dd:21:ae:74,Device,,0,0,0,NORMAL
+DEV_NORM_237,Device-f2:9e:d2:f9:44:97,Device,,0,0,0,NORMAL
+DEV_NORM_238,Device-d9:12:13:dd:3e:8b,Device,,0,0,0,NORMAL
+DEV_NORM_239,Device-82:03:e5:5c:12:d9,Device,,0,0,0,NORMAL
+DEV_NORM_240,Device-ae:e8:a5:65:28:3d,Device,,0,0,0,NORMAL
+DEV_NORM_241,Device-00:c3:05:fe:cf:9b,Device,,0,0,0,NORMAL
+DEV_NORM_242,Device-c9:24:40:63:06:06,Device,,0,0,0,NORMAL
+DEV_NORM_243,Device-f4:7d:62:9e:4f:d0,Device,,0,0,0,NORMAL
+DEV_NORM_244,Device-35:4e:ff:0e:76:9c,Device,,0,0,0,NORMAL
+DEV_NORM_245,Device-1a:03:dd:f9:1f:cf,Device,,0,0,0,NORMAL
+DEV_NORM_246,Device-f7:10:da:28:df:3f,Device,,0,0,0,NORMAL
+DEV_NORM_247,Device-be:d0:59:6f:be:77,Device,,0,0,0,NORMAL
+DEV_NORM_248,Device-ae:49:cd:bf:56:92,Device,,0,0,0,NORMAL
+DEV_NORM_249,Device-f4:56:5f:3d:f9:76,Device,,0,0,0,NORMAL
+DEV_NORM_250,Device-10:b8:b5:51:2a:d3,Device,,0,0,0,NORMAL
+DEV_NORM_251,Device-73:7f:8a:b1:84:31,Device,,0,0,0,NORMAL
+DEV_NORM_252,Device-ee:33:31:35:36:b5,Device,,0,0,0,NORMAL
+DEV_NORM_253,Device-9e:f3:4b:a4:36:ed,Device,,0,0,0,NORMAL
+DEV_NORM_254,Device-07:fa:95:28:bd:b7,Device,,0,0,0,NORMAL
+DEV_NORM_255,Device-4d:74:dd:de:b0:e4,Device,,0,0,0,NORMAL
+DEV_NORM_256,Device-02:2a:ac:5d:1c:14,Device,,0,0,0,NORMAL
+DEV_NORM_257,Device-19:dc:9a:b0:84:ce,Device,,0,0,0,NORMAL
+DEV_NORM_258,Device-6e:bc:69:21:ac:49,Device,,0,0,0,NORMAL
+DEV_NORM_259,Device-62:9a:50:08:79:d3,Device,,0,0,0,NORMAL
+DEV_NORM_260,Device-1b:8b:31:3e:90:ea,Device,,0,0,0,NORMAL
+DEV_NORM_261,Device-77:b9:94:c7:3a:6b,Device,,0,0,0,NORMAL
+DEV_NORM_262,Device-e3:4d:d2:21:d4:f6,Device,,0,0,0,NORMAL
+DEV_NORM_263,Device-e2:bc:c8:fd:ef:d5,Device,,0,0,0,NORMAL
+DEV_NORM_264,Device-44:fe:43:6e:f1:5b,Device,,0,0,0,NORMAL
+DEV_NORM_265,Device-3d:33:b9:14:3b:9b,Device,,0,0,0,NORMAL
+DEV_NORM_266,Device-99:f0:44:d1:99:65,Device,,0,0,0,NORMAL
+DEV_NORM_267,Device-f0:3b:21:df:9e:ac,Device,,0,0,0,NORMAL
+DEV_NORM_268,Device-f4:4e:ee:4a:2d:c7,Device,,0,0,0,NORMAL
+DEV_NORM_269,Device-ca:1e:82:50:93:26,Device,,0,0,0,NORMAL
+DEV_NORM_270,Device-16:f0:35:08:67:e2,Device,,0,0,0,NORMAL
+DEV_NORM_271,Device-ac:1f:0a:d5:d0:ac,Device,,0,0,0,NORMAL
+DEV_NORM_272,Device-82:33:59:45:82:49,Device,,0,0,0,NORMAL
+DEV_NORM_273,Device-d5:1a:50:19:c3:a4,Device,,0,0,0,NORMAL
+DEV_NORM_274,Device-da:8c:31:67:7f:c3,Device,,0,0,0,NORMAL
+DEV_NORM_275,Device-81:ae:d2:f0:d7:08,Device,,0,0,0,NORMAL
+DEV_NORM_276,Device-37:49:de:26:4b:57,Device,,0,0,0,NORMAL
+DEV_NORM_277,Device-de:10:e9:50:1f:88,Device,,0,0,0,NORMAL
+DEV_NORM_278,Device-cb:69:15:29:2c:34,Device,,0,0,0,NORMAL
+DEV_NORM_279,Device-8d:6a:a8:e8:7a:a6,Device,,0,0,0,NORMAL
+DEV_NORM_280,Device-ea:04:0f:00:5d:fc,Device,,0,0,0,NORMAL
+DEV_NORM_281,Device-22:0e:3b:cb:c5:03,Device,,0,0,0,NORMAL
+DEV_NORM_282,Device-eb:6e:07:08:b6:29,Device,,0,0,0,NORMAL
+DEV_NORM_283,Device-77:fb:18:f6:06:c3,Device,,0,0,0,NORMAL
+DEV_NORM_284,Device-8f:56:52:42:48:78,Device,,0,0,0,NORMAL
+DEV_NORM_285,Device-60:8e:0d:1a:dd:83,Device,,0,0,0,NORMAL
+DEV_NORM_286,Device-ef:b1:71:8d:ea:0c,Device,,0,0,0,NORMAL
+DEV_NORM_287,Device-6a:20:7d:27:65:a9,Device,,0,0,0,NORMAL
+DEV_NORM_288,Device-23:0f:d0:a8:73:f7,Device,,0,0,0,NORMAL
+DEV_NORM_289,Device-a1:a7:2e:3e:32:11,Device,,0,0,0,NORMAL
+DEV_NORM_290,Device-ca:24:1e:19:d2:31,Device,,0,0,0,NORMAL
+DEV_NORM_291,Device-19:cc:3d:70:ec:ed,Device,,0,0,0,NORMAL
+DEV_NORM_292,Device-3a:0e:a6:33:02:64,Device,,0,0,0,NORMAL
+DEV_NORM_293,Device-8b:df:e5:74:11:49,Device,,0,0,0,NORMAL
+DEV_NORM_294,Device-db:94:4f:9a:9b:04,Device,,0,0,0,NORMAL
+DEV_NORM_295,Device-17:1d:b6:66:2a:6f,Device,,0,0,0,NORMAL
+DEV_NORM_296,Device-ea:a9:da:53:e1:f7,Device,,0,0,0,NORMAL
+DEV_NORM_297,Device-07:7e:67:fa:c6:c5,Device,,0,0,0,NORMAL
+DEV_NORM_298,Device-0b:02:b0:34:9e:6b,Device,,0,0,0,NORMAL
+DEV_NORM_299,Device-10:66:95:78:5a:75,Device,,0,0,0,NORMAL
+DEV_NORM_300,Device-60:58:30:4c:3a:69,Device,,0,0,0,NORMAL
+DEV_NORM_301,Device-e7:bb:5d:23:44:66,Device,,0,0,0,NORMAL
+DEV_NORM_302,Device-cb:ad:71:69:4a:71,Device,,0,0,0,NORMAL
+DEV_NORM_303,Device-84:f6:2f:25:cb:fe,Device,,0,0,0,NORMAL
+DEV_NORM_304,Device-5a:bf:ff:8c:16:76,Device,,0,0,0,NORMAL
+DEV_NORM_305,Device-e7:c6:9d:c5:b8:24,Device,,0,0,0,NORMAL
+DEV_NORM_306,Device-29:eb:71:ea:de:ed,Device,,0,0,0,NORMAL
+DEV_NORM_307,Device-db:fa:8c:05:e7:82,Device,,0,0,0,NORMAL
+DEV_NORM_308,Device-b2:92:87:33:2b:16,Device,,0,0,0,NORMAL
+DEV_NORM_309,Device-a6:a8:98:64:80:99,Device,,0,0,0,NORMAL
+DEV_NORM_310,Device-bc:c0:f4:c7:76:f7,Device,,0,0,0,NORMAL
+DEV_NORM_311,Device-ee:a2:a6:dd:6e:e0,Device,,0,0,0,NORMAL
+DEV_NORM_312,Device-b4:49:0f:ba:7d:dc,Device,,0,0,0,NORMAL
+DEV_NORM_313,Device-9a:01:44:ac:c6:c2,Device,,0,0,0,NORMAL
+DEV_NORM_314,Device-c6:f3:ae:92:53:51,Device,,0,0,0,NORMAL
+DEV_NORM_315,Device-f0:56:2c:96:79:2e,Device,,0,0,0,NORMAL
+DEV_NORM_316,Device-1b:05:ad:c5:34:df,Device,,0,0,0,NORMAL
+DEV_NORM_317,Device-2c:64:69:df:59:6e,Device,,0,0,0,NORMAL
+DEV_NORM_318,Device-86:04:e2:c7:af:ee,Device,,0,0,0,NORMAL
+DEV_NORM_319,Device-12:9e:b9:c5:d7:5d,Device,,0,0,0,NORMAL
+DEV_NORM_320,Device-ec:53:c1:75:89:26,Device,,0,0,0,NORMAL
+DEV_NORM_321,Device-fd:3b:23:ad:e5:86,Device,,0,0,0,NORMAL
+DEV_NORM_322,Device-1e:02:ec:ac:6c:10,Device,,0,0,0,NORMAL
+DEV_NORM_323,Device-83:4a:ef:e2:27:e4,Device,,0,0,0,NORMAL
+DEV_NORM_324,Device-f8:55:03:59:3c:52,Device,,0,0,0,NORMAL
+DEV_NORM_325,Device-08:4e:b5:61:6e:13,Device,,0,0,0,NORMAL
+DEV_NORM_326,Device-c9:e1:01:c6:7b:76,Device,,0,0,0,NORMAL
+DEV_NORM_327,Device-20:d0:0a:62:73:55,Device,,0,0,0,NORMAL
+DEV_NORM_328,Device-1d:3a:a6:6c:d3:76,Device,,0,0,0,NORMAL
+DEV_NORM_329,Device-3b:a5:0c:a0:c6:e7,Device,,0,0,0,NORMAL
+DEV_NORM_330,Device-28:b1:26:d9:f3:58,Device,,0,0,0,NORMAL
+DEV_NORM_331,Device-3a:c4:a5:af:2a:0e,Device,,0,0,0,NORMAL
+DEV_NORM_332,Device-c7:07:03:97:d7:21,Device,,0,0,0,NORMAL
+DEV_NORM_333,Device-4b:f9:64:c6:17:ea,Device,,0,0,0,NORMAL
+DEV_NORM_334,Device-48:a1:d9:07:aa:76,Device,,0,0,0,NORMAL
+DEV_NORM_335,Device-17:7c:a5:e0:2f:26,Device,,0,0,0,NORMAL
+DEV_NORM_336,Device-14:64:25:67:2d:e9,Device,,0,0,0,NORMAL
+DEV_NORM_337,Device-56:7d:57:99:e6:8f,Device,,0,0,0,NORMAL
+DEV_NORM_338,Device-2b:cc:5f:ed:d4:f0,Device,,0,0,0,NORMAL
+DEV_NORM_339,Device-cd:29:45:8c:e9:e9,Device,,0,0,0,NORMAL
+DEV_NORM_340,Device-cf:2a:4f:64:60:0b,Device,,0,0,0,NORMAL
+DEV_NORM_341,Device-fc:dc:bc:f9:2d:13,Device,,0,0,0,NORMAL
+DEV_NORM_342,Device-c5:6d:8b:fb:1c:d7,Device,,0,0,0,NORMAL
+DEV_NORM_343,Device-7f:1b:04:8e:48:75,Device,,0,0,0,NORMAL
+DEV_NORM_344,Device-03:2c:c2:6d:5d:89,Device,,0,0,0,NORMAL
+DEV_NORM_345,Device-c9:d2:3b:48:6c:90,Device,,0,0,0,NORMAL
+DEV_NORM_346,Device-5f:03:2d:d9:d5:5b,Device,,0,0,0,NORMAL
+DEV_NORM_347,Device-54:6f:53:e6:56:15,Device,,0,0,0,NORMAL
+DEV_NORM_348,Device-68:de:35:29:2c:38,Device,,0,0,0,NORMAL
+DEV_NORM_349,Device-2a:07:ff:30:18:01,Device,,0,0,0,NORMAL
+DEV_NORM_350,Device-36:0c:8f:fa:da:ba,Device,,0,0,0,NORMAL
+DEV_NORM_351,Device-a7:bc:c1:ba:30:ec,Device,,0,0,0,NORMAL
+DEV_NORM_352,Device-40:38:7b:ef:d6:0a,Device,,0,0,0,NORMAL
+DEV_NORM_353,Device-0b:1a:e7:fc:2b:df,Device,,0,0,0,NORMAL
+DEV_NORM_354,Device-3c:96:41:4f:29:e5,Device,,0,0,0,NORMAL
+DEV_NORM_355,Device-e3:f7:76:52:3d:05,Device,,0,0,0,NORMAL
+DEV_NORM_356,Device-ac:87:8f:34:f2:a7,Device,,0,0,0,NORMAL
+DEV_NORM_357,Device-2a:cc:d7:78:39:23,Device,,0,0,0,NORMAL
+DEV_NORM_358,Device-2a:63:b4:ac:09:16,Device,,0,0,0,NORMAL
+DEV_NORM_359,Device-cd:ab:47:3c:0e:a4,Device,,0,0,0,NORMAL
+DEV_NORM_360,Device-97:fe:49:41:a9:38,Device,,0,0,0,NORMAL
+DEV_NORM_361,Device-f6:f9:c1:a4:67:15,Device,,0,0,0,NORMAL
+DEV_NORM_362,Device-fc:95:0c:ad:fb:cc,Device,,0,0,0,NORMAL
+DEV_NORM_363,Device-29:96:c3:4a:19:e5,Device,,0,0,0,NORMAL
+DEV_NORM_364,Device-4e:f9:46:66:0b:34,Device,,0,0,0,NORMAL
+DEV_NORM_365,Device-cd:51:3b:f5:13:ad,Device,,0,0,0,NORMAL
+DEV_NORM_366,Device-4c:71:37:cf:95:c2,Device,,0,0,0,NORMAL
+DEV_NORM_367,Device-ec:8e:b0:33:23:f7,Device,,0,0,0,NORMAL
+DEV_NORM_368,Device-0f:83:5c:fd:94:3a,Device,,0,0,0,NORMAL
+DEV_NORM_369,Device-25:c0:cf:23:63:55,Device,,0,0,0,NORMAL
+DEV_NORM_370,Device-0e:a3:14:65:28:12,Device,,0,0,0,NORMAL
+DEV_NORM_371,Device-39:b5:d0:79:19:e4,Device,,0,0,0,NORMAL
+DEV_NORM_372,Device-fa:b6:31:71:64:96,Device,,0,0,0,NORMAL
+DEV_NORM_373,Device-46:b8:4d:28:8c:5c,Device,,0,0,0,NORMAL
+DEV_NORM_374,Device-e2:8d:46:28:6b:5d,Device,,0,0,0,NORMAL
+DEV_NORM_375,Device-4a:dc:07:28:33:d2,Device,,0,0,0,NORMAL
+DEV_NORM_376,Device-a2:ba:84:78:03:c7,Device,,0,0,0,NORMAL
+DEV_NORM_377,Device-c3:35:9f:3b:98:31,Device,,0,0,0,NORMAL
+DEV_NORM_378,Device-5a:c5:bc:f4:80:44,Device,,0,0,0,NORMAL
+DEV_NORM_379,Device-4c:81:b7:de:5e:be,Device,,0,0,0,NORMAL
+DEV_NORM_380,Device-98:d7:92:9d:a2:22,Device,,0,0,0,NORMAL
+DEV_NORM_381,Device-72:51:29:f0:d4:ff,Device,,0,0,0,NORMAL
+DEV_NORM_382,Device-3c:06:0d:b7:1e:57,Device,,0,0,0,NORMAL
+DEV_NORM_383,Device-52:b4:b1:df:c5:b3,Device,,0,0,0,NORMAL
+DEV_NORM_384,Device-a7:39:9f:98:60:c6,Device,,0,0,0,NORMAL
+DEV_NORM_385,Device-91:ef:1b:0e:a9:b3,Device,,0,0,0,NORMAL
+DEV_NORM_386,Device-0b:5c:b0:3d:f6:24,Device,,0,0,0,NORMAL
+DEV_NORM_387,Device-d3:f0:48:7f:cb:9b,Device,,0,0,0,NORMAL
+DEV_NORM_388,Device-d5:83:ee:54:bd:0b,Device,,0,0,0,NORMAL
+DEV_NORM_389,Device-63:69:14:cd:a1:56,Device,,0,0,0,NORMAL
+DEV_NORM_390,Device-f8:3d:ff:4a:cc:43,Device,,0,0,0,NORMAL
+DEV_NORM_391,Device-30:44:b0:71:ad:0d,Device,,0,0,0,NORMAL
+DEV_NORM_392,Device-f9:9f:2d:74:57:83,Device,,0,0,0,NORMAL
+DEV_NORM_393,Device-87:d6:f3:56:47:34,Device,,0,0,0,NORMAL
+DEV_NORM_394,Device-c1:86:4d:06:21:cd,Device,,0,0,0,NORMAL
+DEV_NORM_395,Device-97:7a:df:1d:19:38,Device,,0,0,0,NORMAL
+DEV_NORM_396,Device-b8:bd:7a:15:10:1a,Device,,0,0,0,NORMAL
+DEV_NORM_397,Device-69:f8:3d:58:fb:a9,Device,,0,0,0,NORMAL
+DEV_NORM_398,Device-33:04:ab:bb:78:6c,Device,,0,0,0,NORMAL
+DEV_NORM_399,Device-23:43:16:6e:32:a9,Device,,0,0,0,NORMAL
+DEV_NORM_400,Device-f6:41:46:d8:bb:e3,Device,,0,0,0,NORMAL
+DEV_NORM_401,Device-d2:fd:05:84:91:16,Device,,0,0,0,NORMAL
+DEV_NORM_402,Device-cf:25:ec:cc:86:50,Device,,0,0,0,NORMAL
+DEV_NORM_403,Device-56:0e:89:79:83:57,Device,,0,0,0,NORMAL
+DEV_NORM_404,Device-17:91:48:48:17:63,Device,,0,0,0,NORMAL
+DEV_NORM_405,Device-0b:ba:28:4d:9a:10,Device,,0,0,0,NORMAL
+DEV_NORM_406,Device-b7:85:80:3c:86:e7,Device,,0,0,0,NORMAL
+DEV_NORM_407,Device-a8:6c:4e:7d:b4:f2,Device,,0,0,0,NORMAL
+DEV_NORM_408,Device-f5:e5:56:f5:90:95,Device,,0,0,0,NORMAL
+DEV_NORM_409,Device-5c:62:42:d7:ec:34,Device,,0,0,0,NORMAL
+DEV_NORM_410,Device-03:cc:03:01:47:28,Device,,0,0,0,NORMAL
+DEV_NORM_411,Device-40:03:a2:64:fe:59,Device,,0,0,0,NORMAL
+DEV_NORM_412,Device-af:47:18:30:13:93,Device,,0,0,0,NORMAL
+DEV_NORM_413,Device-d4:07:07:dc:4b:97,Device,,0,0,0,NORMAL
+DEV_NORM_414,Device-c3:f5:37:39:b2:a3,Device,,0,0,0,NORMAL
+DEV_NORM_415,Device-b2:14:5d:a5:d4:99,Device,,0,0,0,NORMAL
+DEV_NORM_416,Device-b3:8f:b8:20:44:a4,Device,,0,0,0,NORMAL
+DEV_NORM_417,Device-ce:f2:3d:84:2a:45,Device,,0,0,0,NORMAL
+DEV_NORM_418,Device-cb:af:df:da:47:cd,Device,,0,0,0,NORMAL
+DEV_NORM_419,Device-ff:7c:2d:72:7b:06,Device,,0,0,0,NORMAL
+DEV_NORM_420,Device-0b:f4:31:bb:49:e4,Device,,0,0,0,NORMAL
+DEV_NORM_421,Device-d7:67:14:34:c0:db,Device,,0,0,0,NORMAL
+DEV_NORM_422,Device-13:2f:50:4b:42:72,Device,,0,0,0,NORMAL
+DEV_NORM_423,Device-0d:45:f4:9f:da:e0,Device,,0,0,0,NORMAL
+DEV_NORM_424,Device-93:41:15:50:cd:e8,Device,,0,0,0,NORMAL
+DEV_NORM_425,Device-97:d5:82:c4:6c:17,Device,,0,0,0,NORMAL
+DEV_NORM_426,Device-c5:2e:fa:cc:51:bd,Device,,0,0,0,NORMAL
+DEV_NORM_427,Device-68:33:2b:a0:79:53,Device,,0,0,0,NORMAL
+DEV_NORM_428,Device-26:09:66:17:82:1f,Device,,0,0,0,NORMAL
+DEV_NORM_429,Device-11:a2:90:b9:c6:ac,Device,,0,0,0,NORMAL
+DEV_NORM_430,Device-b4:3a:d3:40:cf:19,Device,,0,0,0,NORMAL
+DEV_NORM_431,Device-54:e2:27:64:5a:e4,Device,,0,0,0,NORMAL
+DEV_NORM_432,Device-a9:bd:1c:76:24:f3,Device,,0,0,0,NORMAL
+DEV_NORM_433,Device-04:92:f3:ea:59:52,Device,,0,0,0,NORMAL
+DEV_NORM_434,Device-8b:b2:25:e8:f8:e4,Device,,0,0,0,NORMAL
+DEV_NORM_435,Device-3f:1b:9c:d4:eb:ab,Device,,0,0,0,NORMAL
+DEV_NORM_436,Device-2d:e8:11:70:43:9c,Device,,0,0,0,NORMAL
+DEV_NORM_437,Device-5c:27:ce:2b:ee:e3,Device,,0,0,0,NORMAL
+DEV_NORM_438,Device-25:3c:d6:ca:2a:af,Device,,0,0,0,NORMAL
+DEV_NORM_439,Device-6f:38:e1:4f:46:a1,Device,,0,0,0,NORMAL
+DEV_NORM_440,Device-c1:bd:f6:16:0d:88,Device,,0,0,0,NORMAL
+DEV_NORM_441,Device-52:42:8c:29:ed:68,Device,,0,0,0,NORMAL
+DEV_NORM_442,Device-51:2d:a9:56:bd:ff,Device,,0,0,0,NORMAL
+DEV_NORM_443,Device-5d:bc:06:24:aa:04,Device,,0,0,0,NORMAL
+DEV_NORM_444,Device-e4:fa:3d:80:e4:e3,Device,,0,0,0,NORMAL
+DEV_NORM_445,Device-16:6d:5c:6b:66:0b,Device,,0,0,0,NORMAL
+DEV_NORM_446,Device-b0:99:3f:ed:db:bd,Device,,0,0,0,NORMAL
+DEV_NORM_447,Device-a3:5e:db:55:dc:9d,Device,,0,0,0,NORMAL
+DEV_NORM_448,Device-93:23:20:d3:f3:e1,Device,,0,0,0,NORMAL
+DEV_NORM_449,Device-9d:67:ec:36:f3:be,Device,,0,0,0,NORMAL
+DEV_NORM_450,Device-dc:0b:79:88:9d:70,Device,,0,0,0,NORMAL
+DEV_NORM_451,Device-d1:00:4b:aa:5d:7c,Device,,0,0,0,NORMAL
+DEV_NORM_452,Device-6c:1d:4c:5c:a5:d7,Device,,0,0,0,NORMAL
+DEV_NORM_453,Device-34:3c:85:a6:22:0d,Device,,0,0,0,NORMAL
+DEV_NORM_454,Device-04:02:c0:4e:b5:77,Device,,0,0,0,NORMAL
+DEV_NORM_455,Device-96:7c:81:82:40:33,Device,,0,0,0,NORMAL
+DEV_NORM_456,Device-e3:34:98:52:2f:b6,Device,,0,0,0,NORMAL
+DEV_NORM_457,Device-c3:f0:d2:f2:6d:ca,Device,,0,0,0,NORMAL
+DEV_NORM_458,Device-e5:59:05:13:ab:f0,Device,,0,0,0,NORMAL
+DEV_NORM_459,Device-58:36:00:46:b3:60,Device,,0,0,0,NORMAL
+DEV_NORM_460,Device-a4:72:48:8f:62:b9,Device,,0,0,0,NORMAL
+DEV_NORM_461,Device-ef:dc:68:56:8c:39,Device,,0,0,0,NORMAL
+DEV_NORM_462,Device-56:fd:ed:8a:3c:d6,Device,,0,0,0,NORMAL
+DEV_NORM_463,Device-bb:2e:51:8d:9b:c0,Device,,0,0,0,NORMAL
+DEV_NORM_464,Device-35:ad:5b:72:6b:b4,Device,,0,0,0,NORMAL
+DEV_NORM_465,Device-a3:0a:0a:6e:a7:2c,Device,,0,0,0,NORMAL
+DEV_NORM_466,Device-96:63:82:dd:aa:66,Device,,0,0,0,NORMAL
+DEV_NORM_467,Device-1f:f1:8d:33:e5:ac,Device,,0,0,0,NORMAL
+DEV_NORM_468,Device-70:90:0e:94:c1:1a,Device,,0,0,0,NORMAL
+DEV_NORM_469,Device-02:f3:d9:8a:bc:2a,Device,,0,0,0,NORMAL
+DEV_NORM_470,Device-f1:c9:ef:3b:30:71,Device,,0,0,0,NORMAL
+DEV_NORM_471,Device-04:3a:d7:52:6b:01,Device,,0,0,0,NORMAL
+DEV_NORM_472,Device-81:31:92:8a:c8:54,Device,,0,0,0,NORMAL
+DEV_NORM_473,Device-e3:4a:4d:e3:7f:f8,Device,,0,0,0,NORMAL
+DEV_NORM_474,Device-af:72:89:2b:76:22,Device,,0,0,0,NORMAL
+DEV_NORM_475,Device-f1:60:6e:c6:f3:a6,Device,,0,0,0,NORMAL
+DEV_NORM_476,Device-a9:e4:34:7b:ce:6c,Device,,0,0,0,NORMAL
+DEV_NORM_477,Device-62:8d:59:34:e3:37,Device,,0,0,0,NORMAL
+DEV_NORM_478,Device-0e:58:0f:eb:83:2b,Device,,0,0,0,NORMAL
+DEV_NORM_479,Device-d6:4c:da:1e:8b:31,Device,,0,0,0,NORMAL
+DEV_NORM_480,Device-cd:69:6c:58:fd:31,Device,,0,0,0,NORMAL
+DEV_NORM_481,Device-73:73:11:87:23:87,Device,,0,0,0,NORMAL
+DEV_NORM_482,Device-cc:c3:78:f6:56:b9,Device,,0,0,0,NORMAL
+DEV_NORM_483,Device-90:35:f9:75:a2:55,Device,,0,0,0,NORMAL
+DEV_NORM_484,Device-ae:40:fd:a0:58:25,Device,,0,0,0,NORMAL
+DEV_NORM_485,Device-0b:f0:f7:f3:10:97,Device,,0,0,0,NORMAL
+DEV_NORM_486,Device-54:33:9a:ef:b8:f8,Device,,0,0,0,NORMAL
+DEV_NORM_487,Device-be:0b:9a:f3:80:4d,Device,,0,0,0,NORMAL
+DEV_NORM_488,Device-74:bf:07:db:62:6c,Device,,0,0,0,NORMAL
+DEV_NORM_489,Device-38:e5:8b:ac:d8:96,Device,,0,0,0,NORMAL
+DEV_NORM_490,Device-1a:3d:eb:93:0f:4e,Device,,0,0,0,NORMAL
+DEV_NORM_491,Device-49:59:f9:29:0e:16,Device,,0,0,0,NORMAL
+DEV_NORM_492,Device-93:1f:90:db:01:84,Device,,0,0,0,NORMAL
+DEV_NORM_493,Device-b9:42:84:6d:29:71,Device,,0,0,0,NORMAL
+DEV_NORM_494,Device-fb:7c:dc:38:99:5d,Device,,0,0,0,NORMAL
+DEV_NORM_495,Device-a4:68:4d:69:92:9e,Device,,0,0,0,NORMAL
+DEV_NORM_496,Device-5c:d3:4e:ab:eb:de,Device,,0,0,0,NORMAL
+DEV_NORM_497,Device-dd:e0:0d:24:97:b4,Device,,0,0,0,NORMAL
+DEV_NORM_498,Device-91:c4:c0:ee:12:18,Device,,0,0,0,NORMAL
+DEV_NORM_499,Device-3a:39:fa:13:16:4f,Device,,0,0,0,NORMAL
+DEV_NORM_500,Device-47:49:90:f6:32:04,Device,,0,0,0,NORMAL
+DEV_NORM_501,Device-33:76:3f:0e:c1:39,Device,,0,0,0,NORMAL
+DEV_NORM_502,Device-cf:57:8e:3d:40:54,Device,,0,0,0,NORMAL
+DEV_NORM_503,Device-75:6f:f9:93:fb:8c,Device,,0,0,0,NORMAL
+DEV_NORM_504,Device-c3:ed:d4:09:e3:c0,Device,,0,0,0,NORMAL
+DEV_NORM_505,Device-91:e1:b4:ee:80:5b,Device,,0,0,0,NORMAL
+DEV_NORM_506,Device-6b:c2:54:ba:e4:89,Device,,0,0,0,NORMAL
+DEV_NORM_507,Device-c2:fc:f5:84:ab:c2,Device,,0,0,0,NORMAL
+DEV_NORM_508,Device-10:57:33:ff:a7:73,Device,,0,0,0,NORMAL
+DEV_NORM_509,Device-5c:d2:18:31:2e:b0,Device,,0,0,0,NORMAL
+DEV_NORM_510,Device-5a:3e:c4:66:8f:e9,Device,,0,0,0,NORMAL
+DEV_NORM_511,Device-76:5d:62:03:61:40,Device,,0,0,0,NORMAL
+DEV_NORM_512,Device-bd:2a:5f:66:fb:b4,Device,,0,0,0,NORMAL
+DEV_NORM_513,Device-2e:dc:22:49:33:f7,Device,,0,0,0,NORMAL
+DEV_NORM_514,Device-1a:07:98:cb:25:92,Device,,0,0,0,NORMAL
+DEV_NORM_515,Device-79:c1:3f:80:1a:d8,Device,,0,0,0,NORMAL
+DEV_NORM_516,Device-6a:14:6a:17:f2:1b,Device,,0,0,0,NORMAL
+DEV_NORM_517,Device-2d:2f:48:13:1f:7b,Device,,0,0,0,NORMAL
+DEV_NORM_518,Device-df:97:01:06:c0:f1,Device,,0,0,0,NORMAL
+DEV_NORM_519,Device-cc:4d:d4:3e:3b:b6,Device,,0,0,0,NORMAL
+DEV_NORM_520,Device-ad:17:72:07:d1:07,Device,,0,0,0,NORMAL
+DEV_NORM_521,Device-12:14:e5:91:ab:79,Device,,0,0,0,NORMAL
+DEV_NORM_522,Device-4c:f3:22:86:fb:7e,Device,,0,0,0,NORMAL
+DEV_NORM_523,Device-9b:97:8a:31:bd:f8,Device,,0,0,0,NORMAL
+DEV_NORM_524,Device-26:47:96:3b:41:7e,Device,,0,0,0,NORMAL
+DEV_NORM_525,Device-e3:0f:18:8c:92:18,Device,,0,0,0,NORMAL
+DEV_NORM_526,Device-cf:0c:ce:17:6c:5d,Device,,0,0,0,NORMAL
+DEV_NORM_527,Device-19:1b:0a:86:0a:dd,Device,,0,0,0,NORMAL
+DEV_NORM_528,Device-13:c9:ed:85:ce:74,Device,,0,0,0,NORMAL
+DEV_NORM_529,Device-08:82:79:ac:18:b8,Device,,0,0,0,NORMAL
+DEV_NORM_530,Device-80:39:a8:5e:e0:e0,Device,,0,0,0,NORMAL
+DEV_NORM_531,Device-e1:bf:6d:12:8a:2e,Device,,0,0,0,NORMAL
+DEV_NORM_532,Device-58:88:f4:75:41:73,Device,,0,0,0,NORMAL
+DEV_NORM_533,Device-15:ea:17:18:80:b1,Device,,0,0,0,NORMAL
+DEV_NORM_534,Device-7b:32:e3:27:6a:bd,Device,,0,0,0,NORMAL
+DEV_NORM_535,Device-2d:94:0a:ba:db:f9,Device,,0,0,0,NORMAL
+DEV_NORM_536,Device-05:b1:94:03:6a:b6,Device,,0,0,0,NORMAL
+DEV_NORM_537,Device-c1:4c:22:7d:31:fe,Device,,0,0,0,NORMAL
+DEV_NORM_538,Device-a8:69:7a:7b:7e:a3,Device,,0,0,0,NORMAL
+DEV_NORM_539,Device-7e:db:2b:2b:f7:ed,Device,,0,0,0,NORMAL
+DEV_NORM_540,Device-74:7d:48:9a:a3:2d,Device,,0,0,0,NORMAL
+DEV_NORM_541,Device-d4:f6:5e:05:3d:8f,Device,,0,0,0,NORMAL
+DEV_NORM_542,Device-34:1d:05:24:cd:b4,Device,,0,0,0,NORMAL
+DEV_NORM_543,Device-c7:93:aa:31:2b:ed,Device,,0,0,0,NORMAL
+DEV_NORM_544,Device-ed:9f:45:24:0b:ec,Device,,0,0,0,NORMAL
+DEV_NORM_545,Device-ae:58:37:9f:a1:d9,Device,,0,0,0,NORMAL
+DEV_NORM_546,Device-ac:a5:41:6d:8a:3b,Device,,0,0,0,NORMAL
+DEV_NORM_547,Device-95:39:8f:e7:59:83,Device,,0,0,0,NORMAL
+DEV_NORM_548,Device-78:43:65:01:60:f0,Device,,0,0,0,NORMAL
+DEV_NORM_549,Device-b6:9d:e4:e9:33:ed,Device,,0,0,0,NORMAL
+DEV_NORM_550,Device-f8:24:83:b2:72:a5,Device,,0,0,0,NORMAL
+DEV_NORM_551,Device-a8:e2:a1:d3:a6:10,Device,,0,0,0,NORMAL
+DEV_NORM_552,Device-74:c7:68:f4:f5:f9,Device,,0,0,0,NORMAL
+DEV_NORM_553,Device-46:26:0d:2f:65:1d,Device,,0,0,0,NORMAL
+DEV_NORM_554,Device-8c:7b:f5:97:9f:fc,Device,,0,0,0,NORMAL
+DEV_NORM_555,Device-bf:93:73:9d:ea:7d,Device,,0,0,0,NORMAL
+DEV_NORM_556,Device-35:ea:3b:c4:ff:d7,Device,,0,0,0,NORMAL
+DEV_NORM_557,Device-09:86:d1:a8:ad:ce,Device,,0,0,0,NORMAL
+DEV_NORM_558,Device-dc:81:8f:7a:19:ed,Device,,0,0,0,NORMAL
+DEV_NORM_559,Device-75:63:a4:00:c2:ab,Device,,0,0,0,NORMAL
+DEV_NORM_560,Device-21:6b:65:c7:95:ba,Device,,0,0,0,NORMAL
+DEV_NORM_561,Device-d6:70:10:3c:f1:59,Device,,0,0,0,NORMAL
+DEV_NORM_562,Device-90:77:18:3c:c4:82,Device,,0,0,0,NORMAL
+DEV_NORM_563,Device-22:d0:04:3c:69:ad,Device,,0,0,0,NORMAL
+DEV_NORM_564,Device-09:8e:63:8f:c9:d2,Device,,0,0,0,NORMAL
+DEV_NORM_565,Device-7d:8f:97:c0:fc:b3,Device,,0,0,0,NORMAL
+DEV_NORM_566,Device-e7:0c:7e:bf:39:a4,Device,,0,0,0,NORMAL
+DEV_NORM_567,Device-23:56:f7:24:cf:71,Device,,0,0,0,NORMAL
+DEV_NORM_568,Device-f8:d9:a4:1a:d0:86,Device,,0,0,0,NORMAL
+DEV_NORM_569,Device-ff:a7:ae:f2:3d:2c,Device,,0,0,0,NORMAL
+DEV_NORM_570,Device-40:53:56:e3:1d:f5,Device,,0,0,0,NORMAL
+DEV_NORM_571,Device-f4:dc:09:3d:98:ab,Device,,0,0,0,NORMAL
+DEV_NORM_572,Device-54:96:b8:fe:6a:45,Device,,0,0,0,NORMAL
+DEV_NORM_573,Device-f0:ad:54:f2:09:66,Device,,0,0,0,NORMAL
+DEV_NORM_574,Device-3e:a3:1e:52:b7:b0,Device,,0,0,0,NORMAL
+DEV_NORM_575,Device-68:9d:9b:c8:62:43,Device,,0,0,0,NORMAL
+DEV_NORM_576,Device-68:58:34:ca:8f:65,Device,,0,0,0,NORMAL
+DEV_NORM_577,Device-07:62:44:5f:0a:21,Device,,0,0,0,NORMAL
+DEV_NORM_578,Device-4e:df:a9:37:cc:cf,Device,,0,0,0,NORMAL
+DEV_NORM_579,Device-b9:a2:65:84:de:f8,Device,,0,0,0,NORMAL
+DEV_NORM_580,Device-3d:b5:0b:eb:d6:6c,Device,,0,0,0,NORMAL
+DEV_NORM_581,Device-b5:06:eb:60:9a:3b,Device,,0,0,0,NORMAL
+DEV_NORM_582,Device-80:81:8f:c1:88:10,Device,,0,0,0,NORMAL
+DEV_NORM_583,Device-fe:f5:f3:1b:04:54,Device,,0,0,0,NORMAL
+DEV_NORM_584,Device-2d:31:e1:a3:86:0a,Device,,0,0,0,NORMAL
+DEV_NORM_585,Device-a5:b0:cd:12:64:82,Device,,0,0,0,NORMAL
+DEV_NORM_586,Device-5e:18:6d:50:98:b3,Device,,0,0,0,NORMAL
+DEV_NORM_587,Device-ae:2e:23:25:25:a0,Device,,0,0,0,NORMAL
+DEV_NORM_588,Device-50:6b:e2:79:64:91,Device,,0,0,0,NORMAL
+DEV_NORM_589,Device-c9:58:4a:d7:68:65,Device,,0,0,0,NORMAL
+DEV_NORM_590,Device-98:e8:2f:bb:be:51,Device,,0,0,0,NORMAL
+DEV_NORM_591,Device-c4:6d:b9:6a:82:68,Device,,0,0,0,NORMAL
+DEV_NORM_592,Device-6e:81:35:f4:ea:bc,Device,,0,0,0,NORMAL
+DEV_NORM_593,Device-1a:3b:05:df:aa:35,Device,,0,0,0,NORMAL
+DEV_NORM_594,Device-b9:5e:50:ee:dc:f7,Device,,0,0,0,NORMAL
+DEV_NORM_595,Device-8b:af:c9:17:3d:d8,Device,,0,0,0,NORMAL
+DEV_NORM_596,Device-c0:55:96:44:a1:29,Device,,0,0,0,NORMAL
+DEV_NORM_597,Device-4b:ec:5e:04:65:99,Device,,0,0,0,NORMAL
+DEV_NORM_598,Device-25:76:d2:74:b0:f5,Device,,0,0,0,NORMAL
+DEV_NORM_599,Device-b3:fc:6f:ce:73:c4,Device,,0,0,0,NORMAL
+DEV_NORM_600,Device-a4:ca:9d:c2:bf:07,Device,,0,0,0,NORMAL
+DEV_NORM_601,Device-57:bb:a0:c2:74:f6,Device,,0,0,0,NORMAL
+DEV_NORM_602,Device-16:9d:2a:c5:d4:99,Device,,0,0,0,NORMAL
+DEV_NORM_603,Device-cf:18:d5:5c:3e:2b,Device,,0,0,0,NORMAL
+DEV_NORM_604,Device-3c:05:a4:ce:0f:cd,Device,,0,0,0,NORMAL
+DEV_NORM_605,Device-19:d8:3e:bf:ab:35,Device,,0,0,0,NORMAL
+DEV_NORM_606,Device-dc:24:0a:86:ed:1e,Device,,0,0,0,NORMAL
+DEV_NORM_607,Device-91:3f:eb:1b:8d:a9,Device,,0,0,0,NORMAL
+DEV_NORM_608,Device-08:59:bd:0e:a9:13,Device,,0,0,0,NORMAL
+DEV_NORM_609,Device-b1:c7:52:34:4f:d8,Device,,0,0,0,NORMAL
+DEV_NORM_610,Device-be:7e:12:ab:14:3c,Device,,0,0,0,NORMAL
+DEV_NORM_611,Device-2a:9d:c0:58:2d:36,Device,,0,0,0,NORMAL
+DEV_NORM_612,Device-89:71:bf:6d:85:81,Device,,0,0,0,NORMAL
+DEV_NORM_613,Device-c5:98:0d:60:d4:88,Device,,0,0,0,NORMAL
+DEV_NORM_614,Device-ea:37:70:a7:29:ed,Device,,0,0,0,NORMAL
+DEV_NORM_615,Device-ac:f0:aa:ab:e4:ef,Device,,0,0,0,NORMAL
+DEV_NORM_616,Device-65:c8:c1:2f:b2:6b,Device,,0,0,0,NORMAL
+DEV_NORM_617,Device-99:ae:e0:45:bd:d0,Device,,0,0,0,NORMAL
+DEV_NORM_618,Device-9f:7c:4c:33:c6:63,Device,,0,0,0,NORMAL
+DEV_NORM_619,Device-95:5c:db:6d:8a:b3,Device,,0,0,0,NORMAL
+DEV_NORM_620,Device-ac:7c:fe:9e:55:c9,Device,,0,0,0,NORMAL
+DEV_NORM_621,Device-0a:e5:3c:dd:d6:07,Device,,0,0,0,NORMAL
+DEV_NORM_622,Device-42:d0:a7:5f:2b:0c,Device,,0,0,0,NORMAL
+DEV_NORM_623,Device-65:eb:75:f6:a4:92,Device,,0,0,0,NORMAL
+DEV_NORM_624,Device-06:ee:7e:75:e3:a5,Device,,0,0,0,NORMAL
+DEV_NORM_625,Device-7e:20:1d:fc:2d:83,Device,,0,0,0,NORMAL
+DEV_NORM_626,Device-0e:f1:9c:1b:ce:d3,Device,,0,0,0,NORMAL
+DEV_NORM_627,Device-34:83:5b:da:47:f6,Device,,0,0,0,NORMAL
+DEV_NORM_628,Device-83:a2:ef:78:a9:ea,Device,,0,0,0,NORMAL
+DEV_NORM_629,Device-e8:81:44:90:7b:b9,Device,,0,0,0,NORMAL
+DEV_NORM_630,Device-95:9f:e9:44:49:c8,Device,,0,0,0,NORMAL
+DEV_NORM_631,Device-70:69:40:8b:cf:5b,Device,,0,0,0,NORMAL
+DEV_NORM_632,Device-4a:bc:f5:f5:fc:02,Device,,0,0,0,NORMAL
+DEV_NORM_633,Device-a7:96:74:83:6b:fe,Device,,0,0,0,NORMAL
+DEV_NORM_634,Device-07:6b:1c:3a:28:21,Device,,0,0,0,NORMAL
+DEV_NORM_635,Device-e7:78:57:7e:51:88,Device,,0,0,0,NORMAL
+DEV_NORM_636,Device-26:24:91:67:7f:e3,Device,,0,0,0,NORMAL
+DEV_NORM_637,Device-1a:26:f3:e2:f6:36,Device,,0,0,0,NORMAL
+DEV_NORM_638,Device-f9:0d:3e:6e:08:d8,Device,,0,0,0,NORMAL
+DEV_NORM_639,Device-f5:af:99:87:a8:9e,Device,,0,0,0,NORMAL
+DEV_NORM_640,Device-35:f0:af:f5:52:d9,Device,,0,0,0,NORMAL
+DEV_NORM_641,Device-3e:a5:63:76:99:af,Device,,0,0,0,NORMAL
+DEV_NORM_642,Device-39:64:a5:6c:55:5a,Device,,0,0,0,NORMAL
+DEV_NORM_643,Device-fd:87:8f:9b:49:ab,Device,,0,0,0,NORMAL
+DEV_NORM_644,Device-ae:9d:cd:0c:1d:b4,Device,,0,0,0,NORMAL
+DEV_NORM_645,Device-e8:06:68:9b:0a:dc,Device,,0,0,0,NORMAL
+DEV_NORM_646,Device-a6:6e:83:27:5a:ff,Device,,0,0,0,NORMAL
+DEV_NORM_647,Device-1c:f7:8c:13:1a:8b,Device,,0,0,0,NORMAL
+DEV_NORM_648,Device-e9:3f:42:ad:44:96,Device,,0,0,0,NORMAL
+DEV_NORM_649,Device-2e:7a:89:04:2a:be,Device,,0,0,0,NORMAL
+DEV_NORM_650,Device-65:ae:7e:ba:68:80,Device,,0,0,0,NORMAL
+DEV_NORM_651,Device-43:dd:cf:11:b0:d1,Device,,0,0,0,NORMAL
+DEV_NORM_652,Device-af:9a:22:23:52:e6,Device,,0,0,0,NORMAL
+DEV_NORM_653,Device-2d:8e:e4:a2:5a:ed,Device,,0,0,0,NORMAL
+DEV_NORM_654,Device-0c:90:c0:07:ad:48,Device,,0,0,0,NORMAL
+DEV_NORM_655,Device-7a:e6:b4:64:69:53,Device,,0,0,0,NORMAL
+DEV_NORM_656,Device-01:4b:2a:a7:66:95,Device,,0,0,0,NORMAL
+DEV_NORM_657,Device-d8:76:b0:4e:3c:0e,Device,,0,0,0,NORMAL
+DEV_NORM_658,Device-6c:1e:ec:66:c3:25,Device,,0,0,0,NORMAL
+DEV_NORM_659,Device-35:63:fb:ad:66:2b,Device,,0,0,0,NORMAL
+DEV_NORM_660,Device-f8:3e:00:cd:c3:bb,Device,,0,0,0,NORMAL
+DEV_NORM_661,Device-92:d9:72:cf:08:a1,Device,,0,0,0,NORMAL
+DEV_NORM_662,Device-47:50:44:4f:11:69,Device,,0,0,0,NORMAL
+DEV_NORM_663,Device-bd:5d:55:45:b3:50,Device,,0,0,0,NORMAL
+DEV_NORM_664,Device-f6:9c:b8:a0:0a:0f,Device,,0,0,0,NORMAL
+DEV_NORM_665,Device-14:d1:c5:53:0b:72,Device,,0,0,0,NORMAL
+DEV_NORM_666,Device-d2:3f:ed:e4:09:ff,Device,,0,0,0,NORMAL
+DEV_NORM_667,Device-84:ab:3f:f6:47:44,Device,,0,0,0,NORMAL
+DEV_NORM_668,Device-72:3c:93:77:85:9a,Device,,0,0,0,NORMAL
+DEV_NORM_669,Device-e8:4a:db:41:c1:65,Device,,0,0,0,NORMAL
+DEV_NORM_670,Device-04:17:5c:a0:ff:b6,Device,,0,0,0,NORMAL
+DEV_NORM_671,Device-ce:6e:8e:38:aa:58,Device,,0,0,0,NORMAL
+DEV_NORM_672,Device-af:e3:a8:2b:d0:43,Device,,0,0,0,NORMAL
+DEV_NORM_673,Device-7e:33:94:b9:ed:25,Device,,0,0,0,NORMAL
+DEV_NORM_674,Device-c6:47:06:b4:1b:75,Device,,0,0,0,NORMAL
+DEV_NORM_675,Device-b5:35:74:d6:81:c9,Device,,0,0,0,NORMAL
+DEV_NORM_676,Device-cd:fe:a4:90:28:96,Device,,0,0,0,NORMAL
+DEV_NORM_677,Device-21:d4:4f:57:c5:dc,Device,,0,0,0,NORMAL
+DEV_NORM_678,Device-67:b2:78:4c:34:6e,Device,,0,0,0,NORMAL
+DEV_NORM_679,Device-48:a0:39:3f:7e:93,Device,,0,0,0,NORMAL
+DEV_NORM_680,Device-e4:2a:81:c8:3e:d5,Device,,0,0,0,NORMAL
+DEV_NORM_681,Device-f9:73:2b:7f:dd:13,Device,,0,0,0,NORMAL
+DEV_NORM_682,Device-88:8a:d8:b2:03:f7,Device,,0,0,0,NORMAL
+DEV_NORM_683,Device-f7:d8:3f:cc:13:33,Device,,0,0,0,NORMAL
+DEV_NORM_684,Device-37:bd:c1:be:e1:cd,Device,,0,0,0,NORMAL
+DEV_NORM_685,Device-06:50:a3:9d:0e:8b,Device,,0,0,0,NORMAL
+DEV_NORM_686,Device-bb:78:e1:ae:85:6a,Device,,0,0,0,NORMAL
+DEV_NORM_687,Device-cb:5f:2a:b7:a9:32,Device,,0,0,0,NORMAL
+DEV_NORM_688,Device-ca:f5:c6:8f:ba:eb,Device,,0,0,0,NORMAL
+DEV_NORM_689,Device-55:a0:36:99:5c:26,Device,,0,0,0,NORMAL
+DEV_NORM_690,Device-22:c8:4a:bc:4c:39,Device,,0,0,0,NORMAL
+DEV_NORM_691,Device-2a:7e:17:48:0f:77,Device,,0,0,0,NORMAL
+DEV_NORM_692,Device-77:e6:40:97:0f:ed,Device,,0,0,0,NORMAL
+DEV_NORM_693,Device-6d:5c:c8:b8:db:b7,Device,,0,0,0,NORMAL
+DEV_NORM_694,Device-ab:24:a7:43:fa:37,Device,,0,0,0,NORMAL
+DEV_NORM_695,Device-b7:e8:1e:ef:d2:50,Device,,0,0,0,NORMAL
+DEV_NORM_696,Device-e1:bf:42:b2:88:0f,Device,,0,0,0,NORMAL
+DEV_NORM_697,Device-d4:c6:e9:9a:7d:4a,Device,,0,0,0,NORMAL
+DEV_NORM_698,Device-01:b3:22:d5:67:55,Device,,0,0,0,NORMAL
+DEV_NORM_699,Device-0f:3a:23:cc:dc:f4,Device,,0,0,0,NORMAL
+DEV_NORM_700,Device-a5:39:b5:d8:f2:58,Device,,0,0,0,NORMAL
+DEV_NORM_701,Device-c6:7b:2a:e3:80:11,Device,,0,0,0,NORMAL
+DEV_NORM_702,Device-b3:50:00:ac:90:b2,Device,,0,0,0,NORMAL
+DEV_NORM_703,Device-56:f5:6b:34:b5:e5,Device,,0,0,0,NORMAL
+DEV_NORM_704,Device-4e:01:39:93:b5:53,Device,,0,0,0,NORMAL
+DEV_NORM_705,Device-f6:4a:ec:e3:2a:7b,Device,,0,0,0,NORMAL
+DEV_NORM_706,Device-47:f6:c1:b1:f3:2a,Device,,0,0,0,NORMAL
+DEV_NORM_707,Device-c6:9a:4e:69:dc:dc,Device,,0,0,0,NORMAL
+DEV_NORM_708,Device-2f:0f:3a:fc:9f:91,Device,,0,0,0,NORMAL
+DEV_NORM_709,Device-16:29:5a:10:19:c6,Device,,0,0,0,NORMAL
+DEV_NORM_710,Device-b1:d5:b1:63:e5:7a,Device,,0,0,0,NORMAL
+DEV_NORM_711,Device-26:f6:01:c6:39:07,Device,,0,0,0,NORMAL
+DEV_NORM_712,Device-a5:c7:bc:14:47:8d,Device,,0,0,0,NORMAL
+DEV_NORM_713,Device-96:8d:0d:dc:86:f8,Device,,0,0,0,NORMAL
+DEV_NORM_714,Device-0c:1e:47:23:35:f2,Device,,0,0,0,NORMAL
+DEV_NORM_715,Device-5a:58:c9:99:83:3c,Device,,0,0,0,NORMAL
+DEV_NORM_716,Device-62:f6:41:ff:33:71,Device,,0,0,0,NORMAL
+DEV_NORM_717,Device-c5:22:7d:be:4e:16,Device,,0,0,0,NORMAL
+DEV_NORM_718,Device-6a:10:4a:85:be:61,Device,,0,0,0,NORMAL
+DEV_NORM_719,Device-cc:49:27:56:ae:0e,Device,,0,0,0,NORMAL
+DEV_NORM_720,Device-27:95:4a:13:2d:05,Device,,0,0,0,NORMAL
+DEV_NORM_721,Device-ab:14:37:0c:01:c3,Device,,0,0,0,NORMAL
+DEV_NORM_722,Device-71:20:fc:9c:e7:f8,Device,,0,0,0,NORMAL
+DEV_NORM_723,Device-be:f4:eb:74:95:c8,Device,,0,0,0,NORMAL
+DEV_NORM_724,Device-5b:0d:94:1e:d7:c4,Device,,0,0,0,NORMAL
+DEV_NORM_725,Device-b6:cd:de:ee:ce:ba,Device,,0,0,0,NORMAL
+DEV_NORM_726,Device-ac:46:76:66:be:db,Device,,0,0,0,NORMAL
+DEV_NORM_727,Device-96:c4:f3:e9:d1:66,Device,,0,0,0,NORMAL
+DEV_NORM_728,Device-a5:cd:5e:06:c5:84,Device,,0,0,0,NORMAL
+DEV_NORM_729,Device-c6:4d:ae:74:fa:13,Device,,0,0,0,NORMAL
+DEV_NORM_730,Device-22:00:1a:2a:b6:46,Device,,0,0,0,NORMAL
+DEV_NORM_731,Device-92:ba:ef:a5:99:35,Device,,0,0,0,NORMAL
+DEV_NORM_732,Device-45:d3:d5:f8:73:4e,Device,,0,0,0,NORMAL
+DEV_NORM_733,Device-31:4c:fc:f5:0b:e5,Device,,0,0,0,NORMAL
+DEV_NORM_734,Device-e0:fb:a2:b2:54:9c,Device,,0,0,0,NORMAL
+DEV_NORM_735,Device-43:6a:92:bf:0d:5b,Device,,0,0,0,NORMAL
+DEV_NORM_736,Device-86:80:fa:51:79:8e,Device,,0,0,0,NORMAL
+DEV_NORM_737,Device-da:18:e2:a1:40:09,Device,,0,0,0,NORMAL
+DEV_NORM_738,Device-c6:fc:c1:8c:ab:dd,Device,,0,0,0,NORMAL
+DEV_NORM_739,Device-a4:b8:6f:98:2e:2a,Device,,0,0,0,NORMAL
+DEV_NORM_740,Device-30:43:72:5b:24:72,Device,,0,0,0,NORMAL
+DEV_NORM_741,Device-20:0a:24:ea:33:14,Device,,0,0,0,NORMAL
+DEV_NORM_742,Device-62:52:20:d7:61:2c,Device,,0,0,0,NORMAL
+DEV_NORM_743,Device-a6:f6:f5:f9:1e:50,Device,,0,0,0,NORMAL
+DEV_NORM_744,Device-25:68:46:32:65:a7,Device,,0,0,0,NORMAL
+DEV_NORM_745,Device-5c:9d:96:d8:b7:08,Device,,0,0,0,NORMAL
+DEV_NORM_746,Device-95:21:2f:b1:d2:e0,Device,,0,0,0,NORMAL
+DEV_NORM_747,Device-2a:b2:8a:eb:fb:f9,Device,,0,0,0,NORMAL
+DEV_NORM_748,Device-fa:67:51:bd:ee:ac,Device,,0,0,0,NORMAL
+DEV_NORM_749,Device-ee:e4:4c:d0:4a:c4,Device,,0,0,0,NORMAL
